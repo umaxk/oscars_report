@@ -1,0 +1,436 @@
+.fix-position {
+    margin-left: -170px;
+    margin-top: 15px;
+}
+
+.e-point-hand {
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.e-point {
+    z-index: 9;
+    background: #aaa;
+    width: 55px;
+    height: 55px;
+    padding: 0px 9px 6px 9px;
+    border-radius: 42px;
+    font-weight: bold;
+    margin: auto;
+    font-size: 38px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.carcar {
+    margin: auto;
+    background-color: #000;
+    transform: scale(0.3);
+}
+
+.car-background>img {
+    max-width: 1372px;
+}
+
+.car-v {
+    position: absolute;
+}
+
+.c-el {
+    position: absolute;
+}
+
+.e-point {
+    position: relative;
+}
+
+.guba_top {
+    margin-top: -3px;
+    margin-left: 359px;
+}
+
+.morda_top {
+    margin-left: 360px;
+    margin-top: 8px;
+}
+
+.morda_top>.point {
+    margin-left: 127px;
+    margin-top: -90px;
+}
+
+.fara_top_left {
+    margin-left: 376px;
+    margin-top: 24px
+}
+
+.fara_top_left>.point {
+    margin-left: 7px;
+    margin-top: -80px;
+}
+
+.fara_top_right {
+    margin-left: 588px;
+    margin-top: 24px;
+}
+
+.fara_top_right>.point {
+    margin-left: 7px;
+    margin-top: -80px;
+}
+
+.polosa_top {
+    margin-left: 377px;
+    margin-top: 111px;
+}
+
+.kapot {
+    margin-left: 361px;
+    margin-top: 130px;
+}
+
+.kapot>.point {
+    margin-left: 124px;
+    margin-top: -201px;
+}
+
+.lobash_top {
+    margin-left: 361px;
+    margin-top: 450px;
+}
+
+.lobash_top>.point {
+    margin-left: 124px;
+    margin-top: -111px;
+}
+
+.top {
+    margin-left: 411px;
+    margin-top: 570px;
+}
+
+.top>.point {
+    margin-left: 78px;
+    margin-top: -198px;
+}
+
+.lobash_bottom {
+    margin-left: 361px;
+    margin-top: 882px;
+}
+
+.lobash_bottom>.point {
+    margin-left: 129px;
+    margin-top: -106px;
+}
+
+.bagaj {
+    margin-left: 361px;
+    margin-top: 1003px;
+}
+
+.bagaj>.point {
+    margin-left: 129px;
+    margin-top: -159px;
+}
+
+.polosa_bottom {
+    margin-left: 376px;
+    margin-top: 1242px;
+}
+
+.morda_bottom {
+    margin-left: 360px;
+    margin-top: 1261px;
+}
+
+.morda_bottom>.point {
+    margin-left: 129px;
+    margin-top: -98px;
+}
+
+.fara_bottom_left {
+    margin-left: 589px;
+    margin-top: 1275px;
+}
+
+.fara_bottom_left>.point {
+    margin-left: 7px;
+    margin-top: -80px;
+}
+
+.fara_bottom_right {
+    margin-left: 377px;
+    margin-top: 1275px;
+}
+
+.fara_bottom_right>.point {
+    margin-left: 7px;
+    margin-top: -80px;
+}
+
+.guba_bottom {
+    margin-left: 360px;
+    margin-top: 1358px;
+}
+
+.krilo_left_top {
+    margin-left: 102px;
+    margin-top: 113px;
+}
+
+.krilo_left_top>.point {
+    margin-left: 113px;
+    margin-top: -197px;
+}
+
+.koleso_left_top {
+    margin-left: 1px;
+    margin-top: 236px;
+}
+
+.koleso_left_top>.point {
+    margin-left: 60px;
+    margin-top: -144px;
+}
+
+.stoika_left_top {
+    margin-left: 273px;
+    margin-top: 460px;
+}
+
+.stoika_left_top>.point {
+    margin-left: 24px;
+    margin-top: -144px;
+}
+
+.steklo_left_top {
+    margin-left: 277px;
+    margin-top: 531px;
+}
+
+.steklo_left_top>.point {
+    margin-left: 26px;
+    margin-top: -100px;
+}
+
+.zerkalo_left {
+    margin-left: 231px;
+    margin-top: 512px;
+}
+
+.zerkalo_left>.point {
+    margin-left: -9px;
+    margin-top: -80px;
+}
+
+.dver_left_top {
+    margin-left: 101px;
+    margin-top: 539px;
+}
+
+.dver_left_top>.point {
+    margin-left: 50px;
+    margin-top: -120px;
+}
+
+.porog_left {
+    margin-left: 14px;
+    margin-top: 539px;
+}
+
+.porog_left>.point {
+    margin-left: 3px;
+    margin-top: -232px;
+}
+
+.stoika_left {
+    margin-left: 101px;
+    margin-top: 701px;
+}
+
+.stoika_left>.point {
+    margin-left: 121px;
+    margin-top: -70px;
+}
+
+.steklo_left_bottom {
+    margin-left: 276px;
+    margin-top: 756px;
+}
+
+.steklo_left_bottom>.point {
+    margin-left: 27px;
+    margin-top: -150px
+}
+
+.dver_left_bottom {
+    margin-left: 101px;
+    margin-top: 756px;
+}
+
+.dver_left_bottom>.point {
+    margin-left: 50px;
+    margin-top: -130px;
+}
+
+.stoika_left_bottom {
+    margin-left: 275px;
+    margin-top: 826px;
+}
+
+.stoika_left_bottom>.point {
+    margin-left: 20px;
+    margin-top: -110px;
+}
+
+.krilo_left_bottom {
+    margin-left: 101px;
+    margin-top: 917px;
+}
+
+.krilo_left_bottom>.point {
+    margin-left: 105px;
+    margin-top: -135px;
+}
+
+.koleso_left_bottom {
+    margin-left: 1px;
+    margin-top: 959px;
+}
+
+.koleso_left_bottom>.point {
+    margin-left: 60px;
+    margin-top: -140px;
+}
+
+.krilo_right_top {
+    margin-left: 727px;
+    margin-top: 111px;
+}
+
+.krilo_right_top>.point {
+    margin-left: 35px;
+    margin-top: -200px;
+}
+
+.koleso_right_top {
+    margin-left: 858px;
+    margin-top: 236px;
+}
+
+.koleso_right_top>.point {
+    margin-left: 60px;
+    margin-top: -142px;
+}
+
+.stoika_right_top {
+    margin-left: 644px;
+    margin-top: 457px;
+}
+
+.stoika_right_top>.point {
+    margin-left: 37px;
+    margin-top: -144px;
+}
+
+.steklo_right_top {
+    margin-left: 644px;
+    margin-top: 529px;
+}
+
+.steklo_right_top>.point {
+    margin-left: 35px;
+    margin-top: -103px;
+}
+
+.dver_right_top {
+    margin-left: 779px;
+    margin-top: 536px;
+}
+
+.dver_right_top>.point {
+    margin-left: 50px;
+    margin-top: -120px;
+}
+
+.zerkalo_right {
+    margin-left: 757px;
+    margin-top: 511px;
+}
+
+.zerkalo_right>.point {
+    margin-left: -9px;
+    margin-top: -79px;
+}
+
+.stoika_right {
+    margin-left: 644px;
+    margin-top: 699px;
+}
+
+.stoika_right>.point {
+    margin-left: 120px;
+    margin-top: -71px;
+}
+
+.porog_right {
+    margin-left: 954px;
+    margin-top: 538px;
+}
+
+.porog_right>.point {
+    margin-left: 6px;
+    margin-top: -231px;
+}
+
+.steklo_right_bottom {
+    margin-left: 644px;
+    margin-top: 755px;
+}
+
+.steklo_right_bottom>.point {
+    margin-left: 32px;
+    margin-top: -155px;
+}
+
+.dver_right_bottom {
+    margin-left: 779px;
+    margin-top: 755px;
+}
+
+.dver_right_bottom>.point {
+    margin-left: 50px;
+    margin-top: -123px;
+}
+
+.stoika_right_bottom {
+    margin-left: 643px;
+    margin-top: 825px;
+}
+
+.stoika_right_bottom>.point {
+    margin-left: 40px;
+    margin-top: -114px;
+}
+
+.krilo_right_bottom {
+    margin-left: 729px;
+    margin-top: 916px;
+}
+
+.krilo_right_bottom>.point {
+    margin-left: 40px;
+    margin-top: -136px;
+}
+
+.koleso_right_bottom {
+    margin-left: 857px;
+    margin-top: 958px;
+}
+
+.koleso_right_bottom>.point {
+    margin-left: 60px;
+    margin-top: -142px;
+}

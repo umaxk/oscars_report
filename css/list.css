@@ -1,0 +1,166 @@
+.list {
+    margin: auto;
+    padding: 15px;
+    overflow: hidden;
+}
+
+.list>.menu {
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    max-width: 320px;
+    min-width: 315px;
+}
+
+.list>.menu>.plash {
+    width: 140px;
+    height: 35px;
+    background: #34C85A;
+    box-shadow: 0px 2px 4px rgba(27, 83, 6, 0.15);
+    border-radius: 15px;
+    position: absolute;
+    z-index: 1;
+}
+
+.list>.menu>.plash-1 {
+    margin-left: 10px;
+    transition-property: margin-left;
+    transition-duration: 0.3s;
+}
+
+.list>.menu>.plash-2 {
+    margin-left: 180px;
+    width: 117px;
+    transition-property: margin-left, width;
+    transition-duration: 0.3s;
+}
+
+.list>.menu>.point {
+    z-index: 2;
+    width: 50%;
+    text-align: center;
+    margin-top: 9px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 540;
+    cursor:pointer;
+}
+
+.list>.menu>.active {
+    color:#fff;
+}
+
+.list-task {
+    margin-top: 30px;
+}
+
+.pl-task {
+    width: 100%;
+    min-height: 40px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.1));
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+.pl-task-container {
+    padding: 10px;
+    padding-top: 5px;
+}
+
+.time-city-container {
+    display: inline-block;
+    width: 100%;
+}
+
+.time-city-container>.info-time {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #C2BEBE;
+    float: left;
+}
+
+.time-city-container>.info-city {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #C2BEBE;
+    float: right;
+}
+
+.name-task {
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 550;
+    font-size: 18px;
+    line-height: 21px;
+    color: #34C85A
+}
+
+.pl-tag-container {
+    overflow-x: auto;
+    width: 120%;
+    display: flex;
+    padding-top: 5px;
+}
+
+.pl-tag-standart {
+    padding: 3px 10px 3px 10px;
+    font-size: 11px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+    color: #4A4A4A;
+    font-weight: 550;
+    margin-left: 5px;
+}
+
+.pl-tag-red {
+    background-color: #F07A7A;
+    color: #fff;
+}
+
+.pl-info-text {
+    font-size: 12px;
+    color: #C2BEBE;
+    padding-top: 6px;
+}
+
+.pl-data {
+    display: inline-block;
+    width: 100%;
+    font-size: 12px;
+    color: #4A4A4A;
+    font-weight: 550;
+}
+
+.pl-data>.info-timer {
+    float: left;
+}
+
+.pl-data>.info-price {
+    float: right;
+}
+
+.pl-data>.info-timer-red {
+    color:#F07A7A;
+}
+
+.empty-list {
+    margin: auto;
+    text-align: center;
+}
+
+.position-up-btn {
+    max-width: 150px; 
+    margin:auto;
+    margin-bottom: 100px;
+}

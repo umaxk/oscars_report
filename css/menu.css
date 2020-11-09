@@ -1,0 +1,91 @@
+.menu-fix {
+    z-index:3;
+    width: 340px;
+    background-color: #fff;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.1));
+    border-radius: 25px;
+    height: 80px;
+    position: fixed;
+    left: calc(50% - 170px);
+    top: calc(100vh - 100px);
+}
+
+.menu-fix>.menu-container {
+    padding: 10px;
+    display: flex;
+}
+
+.menu-point {
+    text-align: center;
+    width: 40px;
+    cursor: pointer;
+}
+
+.menu-point-first {
+    margin-left: 5px;
+}
+
+.menu-point-second {
+    margin-left: 25px;
+}
+
+.menu-point>.menu-coub {
+    width: 40px;
+    height: 40px;
+    background-color: #F1F9ED;
+    border-radius: 10px;
+}
+
+.menu-point>.menu-coub>img {
+    padding: 10px
+}
+
+.menu-point>.menu-name {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 9px;
+    text-align: center;
+    color: #D1D1D1;
+}
+
+.menu-point>.active {
+    color: #4A4A4A;
+}
+
+.active-none>.menu-coub {
+    background-color:#FAFAFA;
+}
+
+.active-none>.menu-coub>img {
+    stroke: #D1D1D1;
+}
+
+.active-none>.menu-name  {
+    color:#D1D1D1;
+}
+
+.point-animation {
+    border-radius: 5px;
+    background: linear-gradient(41deg, #ffffff, #aeaeae, #5ba67d);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 4s ease infinite;
+    -moz-animation: AnimationName 4s ease infinite;
+    animation: AnimationName 4s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:88% 0%}
+    50%{background-position:13% 100%}
+    100%{background-position:88% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:88% 0%}
+    50%{background-position:13% 100%}
+    100%{background-position:88% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:88% 0%}
+    50%{background-position:13% 100%}
+    100%{background-position:88% 0%}
+}

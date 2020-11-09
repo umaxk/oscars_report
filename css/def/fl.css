@@ -1,0 +1,14 @@
+.fl {
+    position: absolute;
+    z-index: 99;
+    background: #fff;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.fl>.load {
+    margin-top: 30%;
+}
+
+

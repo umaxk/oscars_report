@@ -1,0 +1,142 @@
+.detail {
+  padding: 10px;
+  max-width: 375px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.page {
+  width: 340px;
+  padding-top: 15px;
+  background-color: #fff;
+  padding: 15px 10px 15px 10px;
+}
+
+.page > .head {
+  display: flex;
+}
+
+.page > .head > .done > img {
+  padding-top: 17px;
+  cursor: pointer;
+}
+
+.page > .head > .head-info > .time {
+  font-size: 12px;
+  color: #d1d1d1;
+}
+
+.page > .head > .head-info > .type {
+  color: #34C85A;
+  font-size: 18px;
+  margin-top: -5px;
+}
+
+.page > .tag {
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+.text-info-detail {
+  width: 340px;
+  font-size: 12px;
+}
+
+.text-info-detail > p {
+  margin-bottom: 3px;
+}
+
+.date-start,
+.price {
+  padding-top: 15px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.date-start > .time {
+  padding-left: 5px;
+}
+
+.date-start > .red {
+  color: #f07a7a;
+}
+
+.price {
+  padding-top: 10px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.use-tech {
+  background-color: #fff;
+  padding: 10px;
+  margin-top: 20px;
+}
+.use-tech > p {
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
+.use-tech > .tag {
+  clear: both;
+  width: 335px;
+  margin-left: -5px;
+  display: flex;
+  overflow: auto;
+}
+
+.tag-grean {
+  background-color: #f1f9ed;
+  color: #34C85A;
+  white-space: nowrap;
+}
+
+.map-detail {
+  background-color: #fff;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.map-detail > h2 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.map-detail > p {
+  font-size: 12px;
+}
+
+.btn-status {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.btn-margin-v1 {
+  margin-top: 15px;
+}
+
+.btn-go-v1 {
+  width: 100%;
+  background: #34C85A;
+  border-color: #34C85A;
+  box-shadow: 0px 2px 4px rgba(27, 83, 6, 0.15);
+  border-radius: 15px;
+}
+
+.btn-end-v1 {
+  width: 100%;
+  border-color: #e5edea;
+  background-color: #fff;
+  color: #E83C28;
+  box-shadow: 0px 2px 4px rgba(27, 83, 6, 0.15);
+  border-radius: 15px;
+}
+
+.btn-start-v1 {
+  width: 100%;
+  background: #e5edea;
+  box-shadow: 0px 2px 4px rgba(27, 83, 6, 0.15);
+  border-radius: 15px;
+  color: #4a4a4a;
+  border-color: #e5e5e5;
+}

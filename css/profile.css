@@ -1,0 +1,113 @@
+.profile {
+  overflow: hidden;
+}
+
+.head-container {
+  background-color: #34C85A;
+  width: 100%;
+  height: 90px;
+  text-align: center;
+  color: #fff;
+}
+
+.head-container > span {
+  font-size: 10px;
+}
+
+.head-container > p {
+  font-size: 18px;
+}
+
+.h-c-ots {
+  width: 100%;
+  height: 25px;
+}
+
+.ava-container {
+  margin-top: 25px;
+}
+
+.ava {
+  background-image: url("../img/profile/defv1.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 150px;
+  margin: auto;
+  max-width: 150px;
+  border-radius: 75px;
+}
+
+.position-btn-edit {
+  margin: auto;
+  margin-top: 55px;
+}
+
+.button-edit {
+  background-color: #34C85A;
+  padding: 4px 7px 7px 7px;
+  border-radius: 15px;
+  box-shadow: 0px 2px 4px rgba(27, 83, 6, 0.15);
+}
+
+.uname {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.uname > .uname-span {
+  font-size: 18px;
+  font-weight: 600;
+}
+.uname > p {
+  font-size: 12px;
+  color: #d1d1d1;
+}
+
+.main-info-profile {
+  padding:15px;
+}
+
+.main-info-profile>h2 {
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 5px;
+
+}
+
+.main-info-profile>.m-i-list{
+    margin-top: 15px;
+}
+
+.main-info-profile>.m-i-list>.btn-black{
+    background-color: #131314;
+    padding: 5px 10px 7px 10px;
+    border-radius: 17px;
+}
+
+.main-info-profile>.m-i-list>.bb-mail-v1{
+    padding: 4px 8px 7px 8px;
+    border-radius: 17px;
+}
+
+.main-info-profile>.m-i-list>.m-i-link {
+    color:#34C85A;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.list-ss {
+  margin:auto;
+  max-width: 320px;
+  text-align: center;
+  height: 160px;
+}
+
+.list-ss>a>img {
+  max-width: 145px;
+}
+
+.version-profile {
+  height: 200px;
+  margin: auto;
+  text-align: center;
+}
