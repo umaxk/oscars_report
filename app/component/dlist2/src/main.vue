@@ -3,17 +3,17 @@
     <div class="">
         <!-- header -->
         <div class="d_container d_header">
-            <h2>Отчет по авто</h2>
+            <h2>Диагностический лист по авто</h2>
             <!-- марка модель генерация год-->
             <p v-html="
-          vi(list.brand) +
-          ' ' +
-          vi(list.model) +
-          ' ' +
-          vi(list.generation) +
-          ' ' +
-          vi(list.year)
-        ">
+            vi(list.brand) +
+            ' ' +
+            vi(list.model) +
+            ' ' +
+            vi(list.generation) +
+            ' ' +
+            vi(list.year)
+          ">
                 <span class="point-animation">
                     <span :key="k" v-for="(v, k) in 25">&nbsp;</span>
                 </span>
@@ -26,20 +26,21 @@
             </span>
         </div>
         <!-- gallery -->
-        <div class="d_container_g d_gallery" v-if="list.photo_list.length>0">
+        <div class="d_container_g d_gallery" v-if="list.photo_list.length > 0">
             <div class="d_informer_photo">
-                <div class="e_pic_v1" :key="kk" v-for="(i, kk) in list.photo_list" :style="get_background(i.img)"></div>
+                <div class="e_pic_v1" :key="kk" v-for="(i, kk) in list.photo_list" :style="get_background(i.img)" @click="show_galery(list.photo_list, kk)"></div>
             </div>
         </div>
 
         <!-- -->
 
         <div class="d_container d_block_expert_time">
-            <div class="d_expert" v-html="'Эксперт: '+ (list.expert == '' ? '-' : list.expert)">
+            <div class="d_expert" v-html="'Эксперт: ' + (list.expert == '' ? '-' : list.expert)">
                 Эксперт: Роман Рыбкин
             </div>
-            <div class="d_time" v-html="mod == 1 && list.created == '' ? emp() : list.created">00:00 01.01.2020</div>
-            
+            <div class="d_time" v-html="mod == 1 && list.created == '' ? emp() : list.created">
+                00:00 01.01.2020
+            </div>
         </div>
 
         <div class="dlist_hr">
@@ -47,34 +48,39 @@
         </div>
         <!-- -->
         <!-- Стоимость -->
-        <div class="d_container dlist_table" v-if="list.price != '' || list.price_sale!=''">
+        <div class="d_container dlist_table" v-if="list.price != '' || list.price_sale != ''">
             <div class="dist_table_header">Стоимость</div>
-            <div class="dlist_table_container" v-if="list.price!=''">
+            <div class="dlist_table_container" v-if="list.price != ''">
                 <div class="dlist_table_block_v1">
                     <span class="dlist_informer_gray_text">До торга</span>
                 </div>
                 <div class="dlist_table_block_v1">
-                    <span class="dlist_informer_black_text" v-html="list.price + ' ₽'">2020 </span>
+                    <span class="dlist_informer_black_text" v-html="list.price + ' ₽'">2020
+                    </span>
                 </div>
             </div>
-            <div class="dlist_table_container" v-if="list.price_sale!=''">
+            <div class="dlist_table_container" v-if="list.price_sale != ''">
                 <div class="dlist_table_block_v1">
                     <span class="dlist_informer_gray_text">После торга</span>
                 </div>
                 <div class="dlist_table_block_v1">
-                    <span class="dlist_informer_black_text" v-html="list.price_sale + ' ₽'">2020 </span>
+                    <span class="dlist_informer_black_text" v-html="list.price_sale + ' ₽'">2020
+                    </span>
                 </div>
             </div>
         </div>
 
         <div class="d_container dlist_table" :key="kct" v-for="(vct, kct) in config_top">
-            <div class="dist_table_header" v-html="vct.name">Основная информация</div>
+            <div class="dist_table_header" v-html="vct.name">
+                Основная информация
+            </div>
             <div class="dlist_table_container" :key="kctl" v-for="(vctl, kctl) in vct.list">
                 <div class="dlist_table_block_v1" v-if="get_data_table(vctl.field) != ''">
                     <span class="dlist_informer_gray_text" v-html="vctl.name">Год выпуска</span>
                 </div>
                 <div class="dlist_table_block_v1" v-if="get_data_table(vctl.field) != ''">
-                    <span class="dlist_informer_black_text" v-html="get_data_table(vctl.field)">2020 </span>
+                    <span class="dlist_informer_black_text" v-html="get_data_table(vctl.field)">2020
+                    </span>
                 </div>
             </div>
         </div>
@@ -137,7 +143,6 @@
         <div class="d_container d_position_btn">
             <div class="btn_green">Смотреть полный отчет</div>
         </div>
-        
 
         <div class="dlist_hr_v2">
             <hr />
@@ -158,13 +163,13 @@
                     </div>-->
                     <div class="view_img" v-if="show_car_info">
                         <div class="view_img_close">
-                            <span @click="show_car_info=false">Закрыть</span>
+                            <span @click="show_car_info = false">Закрыть</span>
                         </div>
                         <div class="view_img_img" v-if="see_car_info.img != ''">
-                            <img :src="see_car_info.img" alt="">
+                            <img :src="see_car_info.img" alt="" />
                         </div>
                         <div class="view_img_text">
-                            <span>{{see_car_info.text}}</span>
+                            <span>{{ see_car_info.text }}</span>
                         </div>
                     </div>
 
@@ -177,10 +182,10 @@
                                 <!-- -->
                                 <div class="c-el morda_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.morda_top.type) +
-                  'morda1.svg'
-                " alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.morda_top.type) +
+                        'morda1.svg'
+                      " alt="car" />
                                     <div class="e-point-hand point" @click="point('morda_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -190,10 +195,10 @@
 
                                 <div class="c-el fara_top_left">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.fara_top_left.type) +
-                  'fara.svg'
-                " @click="point('fara_top_left')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.fara_top_left.type) +
+                        'fara.svg'
+                      " @click="point('fara_top_left')" alt="car" />
                                     <div class="e-point-hand point" @click="point('fara_top_left')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -203,10 +208,10 @@
 
                                 <div class="c-el fara_top_right">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.fara_top_right.type) +
-                  'fara.svg'
-                " @click="point('fara_top_right')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.fara_top_right.type) +
+                        'fara.svg'
+                      " @click="point('fara_top_right')" alt="car" />
                                     <div class="e-point-hand point" @click="point('fara_top_right')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -223,10 +228,10 @@
 
                                 <div class="c-el kapot">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.kapot.type) +
-                  'kapot.svg'
-                " @click="point('kapot')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.kapot.type) +
+                        'kapot.svg'
+                      " @click="point('kapot')" alt="car" />
                                     <div class="e-point-hand point" @click="point('kapot')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -236,10 +241,10 @@
 
                                 <div class="c-el lobash_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.lobash_top.type) +
-                  'lobash_top.svg'
-                " @click="point('lobash_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.lobash_top.type) +
+                        'lobash_top.svg'
+                      " @click="point('lobash_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('lobash_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -248,8 +253,10 @@
                                 </div>
                                 <div class="c-el top">
                                     <img :src="
-                  './img/car/' + get_color_car(list.block.top.type) + 'top.svg'
-                " @click="point('top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.top.type) +
+                        'top.svg'
+                      " @click="point('top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -259,10 +266,10 @@
 
                                 <div class="c-el lobash_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.lobash_bottom.type) +
-                  'lobash_bottom.svg'
-                " @click="point('lobash_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.lobash_bottom.type) +
+                        'lobash_bottom.svg'
+                      " @click="point('lobash_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('lobash_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -272,10 +279,10 @@
 
                                 <div class="c-el bagaj">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.bagaj.type) +
-                  'bagaj.svg'
-                " @click="point('bagaj')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.bagaj.type) +
+                        'bagaj.svg'
+                      " @click="point('bagaj')" alt="car" />
                                     <div class="e-point-hand point" @click="point('bagaj')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -292,10 +299,10 @@
                                 <!-- -->
                                 <div class="c-el morda_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.morda_bottom.type) +
-                  'morda1.svg'
-                " @click="point('morda_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.morda_bottom.type) +
+                        'morda1.svg'
+                      " @click="point('morda_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('morda_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -305,10 +312,10 @@
 
                                 <div class="c-el fara_bottom_left">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.fara_bottom_left.type) +
-                  'fara.svg'
-                " @click="point('fara_bottom_left')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.fara_bottom_left.type) +
+                        'fara.svg'
+                      " @click="point('fara_bottom_left')" alt="car" />
                                     <div class="e-point-hand point" @click="point('fara_bottom_left')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -318,10 +325,10 @@
 
                                 <div class="c-el fara_bottom_right">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.fara_bottom_right.type) +
-                  'fara.svg'
-                " @click="point('fara_bottom_right')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.fara_bottom_right.type) +
+                        'fara.svg'
+                      " @click="point('fara_bottom_right')" alt="car" />
                                     <div class="e-point-hand point" @click="point('fara_bottom_right')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -333,10 +340,10 @@
 
                                 <div class="c-el guba_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.guba_bottom.type) +
-                  'guba1.svg'
-                " @click="point('guba_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.guba_bottom.type) +
+                        'guba1.svg'
+                      " @click="point('guba_bottom')" alt="car" />
                                     <div class="">
                                         <span>+</span>
                                     </div>
@@ -344,10 +351,10 @@
 
                                 <div class="c-el krilo_left_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.krilo_left_top.type) +
-                  'krilo_left_top.svg'
-                " @click="point('krilo_left_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.krilo_left_top.type) +
+                        'krilo_left_top.svg'
+                      " @click="point('krilo_left_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('krilo_left_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -357,10 +364,10 @@
 
                                 <div class="c-el koleso_left_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.koleso_left_top.type) +
-                  'koleso.svg'
-                " @click="point('koleso_left_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.koleso_left_top.type) +
+                        'koleso.svg'
+                      " @click="point('koleso_left_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('koleso_left_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -370,10 +377,10 @@
 
                                 <div class="c-el stoika_left_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.stoika_left_top.type) +
-                  'stoika_left_top.svg'
-                " @click="point('stoika_left_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.stoika_left_top.type) +
+                        'stoika_left_top.svg'
+                      " @click="point('stoika_left_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('stoika_left_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -383,10 +390,10 @@
 
                                 <div class="c-el steklo_left_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.steklo_left_top.type) +
-                  'steklo_left_top.svg'
-                " @click="point('steklo_left_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.steklo_left_top.type) +
+                        'steklo_left_top.svg'
+                      " @click="point('steklo_left_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('steklo_left_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -396,10 +403,10 @@
 
                                 <div class="c-el dver_left_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.dver_left_top.type) +
-                  'dver.svg'
-                " @click="point('dver_left_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.dver_left_top.type) +
+                        'dver.svg'
+                      " @click="point('dver_left_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('dver_left_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -409,10 +416,10 @@
 
                                 <div class="c-el zerkalo_left">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.zerkalo_left.type) +
-                  'zerkalo_left.svg'
-                " @click="point('zerkalo_left')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.zerkalo_left.type) +
+                        'zerkalo_left.svg'
+                      " @click="point('zerkalo_left')" alt="car" />
                                     <div class="e-point-hand point" @click="point('zerkalo_left')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -422,10 +429,10 @@
 
                                 <div class="c-el porog_left">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.porog_left.type) +
-                  'porog_left.svg'
-                " @click="point('porog_left')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.porog_left.type) +
+                        'porog_left.svg'
+                      " @click="point('porog_left')" alt="car" />
                                     <div class="e-point-hand point" @click="point('porog_left')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -435,10 +442,10 @@
 
                                 <div class="c-el stoika_left">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.porog_left.type) +
-                  'stoika.svg'
-                " @click="point('stoika_left')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.porog_left.type) +
+                        'stoika.svg'
+                      " @click="point('stoika_left')" alt="car" />
                                     <div class="e-point-hand point" @click="point('stoika_left')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -448,10 +455,10 @@
 
                                 <div class="c-el steklo_left_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.steklo_left_bottom.type) +
-                  'steklo_left_bottom.svg'
-                " @click="point('steklo_left_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.steklo_left_bottom.type) +
+                        'steklo_left_bottom.svg'
+                      " @click="point('steklo_left_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('steklo_left_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -461,10 +468,10 @@
 
                                 <div class="c-el dver_left_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.dver_left_bottom.type) +
-                  'dver.svg'
-                " @click="point('dver_left_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.dver_left_bottom.type) +
+                        'dver.svg'
+                      " @click="point('dver_left_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('dver_left_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -474,10 +481,10 @@
 
                                 <div class="c-el stoika_left_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.stoika_left_bottom.type) +
-                  'stoika_left_bottom.svg'
-                " @click="point('stoika_left_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.stoika_left_bottom.type) +
+                        'stoika_left_bottom.svg'
+                      " @click="point('stoika_left_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('stoika_left_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -487,10 +494,10 @@
 
                                 <div class="c-el krilo_left_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.krilo_left_bottom.type) +
-                  'krilo_left_bottom.svg'
-                " @click="point('krilo_left_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.krilo_left_bottom.type) +
+                        'krilo_left_bottom.svg'
+                      " @click="point('krilo_left_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('krilo_left_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -500,10 +507,10 @@
 
                                 <div class="c-el koleso_left_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.koleso_left_bottom.type) +
-                  'koleso.svg'
-                " @click="point('koleso_left_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.koleso_left_bottom.type) +
+                        'koleso.svg'
+                      " @click="point('koleso_left_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('koleso_left_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -513,10 +520,10 @@
                                 <!-- -->
                                 <div class="c-el krilo_right_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.krilo_right_top.type) +
-                  'krilo_right_top.svg'
-                " @click="point('krilo_right_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.krilo_right_top.type) +
+                        'krilo_right_top.svg'
+                      " @click="point('krilo_right_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('krilo_right_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -526,10 +533,10 @@
 
                                 <div class="c-el koleso_right_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.koleso_right_top.type) +
-                  'koleso.svg'
-                " @click="point('koleso_right_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.koleso_right_top.type) +
+                        'koleso.svg'
+                      " @click="point('koleso_right_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('koleso_right_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -539,10 +546,10 @@
 
                                 <div class="c-el stoika_right_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.stoika_right_top.type) +
-                  'stoika_right_top.svg'
-                " @click="point('stoika_right_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.stoika_right_top.type) +
+                        'stoika_right_top.svg'
+                      " @click="point('stoika_right_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('stoika_right_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -552,10 +559,10 @@
 
                                 <div class="c-el steklo_right_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.steklo_right_top.type) +
-                  'steklo_right_top.svg'
-                " @click="point('steklo_right_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.steklo_right_top.type) +
+                        'steklo_right_top.svg'
+                      " @click="point('steklo_right_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('steklo_right_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -565,10 +572,10 @@
 
                                 <div class="c-el dver_right_top">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.dver_right_top.type) +
-                  'dver.svg'
-                " @click="point('dver_right_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.dver_right_top.type) +
+                        'dver.svg'
+                      " @click="point('dver_right_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('dver_right_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -578,10 +585,10 @@
 
                                 <div class="c-el zerkalo_right">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.zerkalo_right.type) +
-                  'zerkalo_left.svg'
-                " @click="point('dver_right_top')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.zerkalo_right.type) +
+                        'zerkalo_left.svg'
+                      " @click="point('dver_right_top')" alt="car" />
                                     <div class="e-point-hand point" @click="point('dver_right_top')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -591,10 +598,10 @@
 
                                 <div class="c-el stoika_right">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.stoika_right.type) +
-                  'stoika.svg'
-                " @click="point('stoika_right')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.stoika_right.type) +
+                        'stoika.svg'
+                      " @click="point('stoika_right')" alt="car" />
                                     <div class="e-point-hand point" @click="point('stoika_right')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -604,10 +611,10 @@
 
                                 <div class="c-el porog_right">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.porog_right.type) +
-                  'porog_right.svg'
-                " @click="point('porog_right')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.porog_right.type) +
+                        'porog_right.svg'
+                      " @click="point('porog_right')" alt="car" />
                                     <div class="e-point-hand point" @click="point('porog_right')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -617,10 +624,10 @@
 
                                 <div class="c-el steklo_right_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.steklo_right_bottom.type) +
-                  'steklo_right_bottom.svg'
-                " @click="point('steklo_right_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.steklo_right_bottom.type) +
+                        'steklo_right_bottom.svg'
+                      " @click="point('steklo_right_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('steklo_right_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -630,10 +637,10 @@
 
                                 <div class="c-el dver_right_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.dver_right_bottom.type) +
-                  'dver.svg'
-                " @click="point('dver_right_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.dver_right_bottom.type) +
+                        'dver.svg'
+                      " @click="point('dver_right_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('dver_right_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -643,10 +650,10 @@
 
                                 <div class="c-el stoika_right_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.stoika_right_bottom.type) +
-                  'stoika_right_bottom.svg'
-                " @click="point('stoika_right_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.stoika_right_bottom.type) +
+                        'stoika_right_bottom.svg'
+                      " @click="point('stoika_right_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('stoika_right_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -656,10 +663,10 @@
 
                                 <div class="c-el krilo_right_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.krilo_right_bottom.type) +
-                  'krilo_right_bottom.svg'
-                " @click="point('krilo_right_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.krilo_right_bottom.type) +
+                        'krilo_right_bottom.svg'
+                      " @click="point('krilo_right_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('krilo_right_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -669,10 +676,10 @@
 
                                 <div class="c-el koleso_right_bottom">
                                     <img :src="
-                  './img/car/' +
-                  get_color_car(list.block.koleso_right_bottom.type) +
-                  'koleso.svg'
-                " @click="point('koleso_right_bottom')" alt="car" />
+                        './img/car/' +
+                        get_color_car(list.block.koleso_right_bottom.type) +
+                        'koleso.svg'
+                      " @click="point('koleso_right_bottom')" alt="car" />
                                     <div class="e-point-hand point" @click="point('koleso_right_bottom')">
                                         <div class="e-point vipoint">
                                             <span>+</span>
@@ -693,12 +700,11 @@
             <!-- -->
             <div class="d_car_damage_list" v-if="pic_damage_v2()">
                 <div class="dist_table_header">Фотографии повреждений</div>
-                <div  class="d_informer_photo"   >
-                    <div :key="kd" v-for="(vf,kd) in list.block">
-                        <div class="e_pic_v1" v-if="vf.img != ''" :style="'background-image: url('+vf.img+');'"></div>
+                <div class="d_informer_photo">
+                    <div :key="kd" v-for="(vf, kd) in list.block">
+                        <div class="e_pic_v1" v-if="vf.img != ''" @click="show_galery(list.block, kd)" :style="'background-image: url(' + vf.img + ');'"></div>
                     </div>
                 </div>
-
             </div>
             <!-- -->
         </div>
@@ -709,7 +715,7 @@
         </div>
         <!-- -->
 
-        <div class="d_container dlist_check_auto" v-if="(convert_tester(list.equipment_tests)).length != 0">
+        <div class="d_container dlist_check_auto" v-if="convert_tester(list.equipment_tests).length != 0">
             <div class="dist_table_header" style="font_size: 25px">
                 Проверка автомобиля
             </div>
@@ -735,7 +741,7 @@
             <div class="d_inform_car" style="margin-bottom: 10px">
                 Съемка видео производится по регламенту.
             </div>
-            <video controls="controls" :poster="'./img/dlist/def.jpg'" width="100%" height="200">
+            <video controls="controls" :poster="'./img/dlist/def.jpeg'" width="100%" height="200">
                 <source :src="list.video_list.review.url" type="video/mp4" />
             </video>
         </div>
@@ -747,7 +753,7 @@
             <div class="d_inform_car" style="margin-bottom: 10px">
                 Съемка видео производится по регламенту.
             </div>
-            <video controls="controls" :poster="'./img/dlist/def.jpg'" width="100%" height="200">
+            <video controls="controls" :poster="'./img/dlist/def.jpeg'" width="100%" height="200">
                 <source :src="list.video_list.test_drive.url" type="video/mp4" />
             </video>
         </div>
@@ -758,7 +764,10 @@
         </div>
 
         <!-- -->
-        <div class="d_container dlist_plus_minus" v-if="(convert_pl_v2(list.equipment_check_pl)).length != 0 || (convert_pl_v2(list.equipment_check_pl, 2)).length != 0">
+        <div class="d_container dlist_plus_minus" v-if="
+          convert_pl_v2(list.equipment_check_pl).length != 0 ||
+          convert_pl_v2(list.equipment_check_pl, 2).length != 0
+        ">
             <div class="dlist_check_title video_title">
                 Плюсы и минусы автомобиля
             </div>
@@ -774,7 +783,7 @@
                     <div class="dlist_check_text" v-html="vp"></div>
                 </div>
             </div>
-            <div class="dlist_hr_v3" v-if="(convert_pl_v2(list.equipment_check_pl)).length != 0">
+            <div class="dlist_hr_v3" v-if="convert_pl_v2(list.equipment_check_pl).length != 0">
                 <hr />
             </div>
 
@@ -787,20 +796,24 @@
                     <div class="dlist_check_text" v-html="vp">Минус</div>
                 </div>
             </div>
-
         </div>
 
         <!-- -->
 
-        <div class="dlist_hr_v2" v-if="(convert_pl_v2(list.equipment_check_pl)).length != 0 || (convert_pl_v2(list.equipment_check_pl, 2)).length != 0">
+        <div class="dlist_hr_v2" v-if="
+          convert_pl_v2(list.equipment_check_pl).length != 0 ||
+          convert_pl_v2(list.equipment_check_pl, 2).length != 0
+        ">
             <hr />
         </div>
 
         <!-- -->
 
-        <div class="d_container dlist_check_auto" v-if="(convert_checker(list.equipment_check)).length > 0">
+        <div class="d_container dlist_check_auto" v-if="convert_checker(list.equipment_check).length > 0">
             <div class="dlist_check_point">
-                <div class="dlist_check_title" style="padding-bottom: 5px;">Комплектация</div>
+                <div class="dlist_check_title" style="padding-bottom: 5px">
+                    Комплектация
+                </div>
                 <div class="dlist_check_list" :key="kk" v-for="(vk, kk) in convert_checker(list.equipment_check)">
                     <div class="dlist_check_status">
                         <img :src="'./img/dlist/ok.svg'" alt="" />
@@ -815,11 +828,44 @@
 
         <div class="d_container dlist_check_auto" v-if="list.comment.length > 0">
             <div class="dlist_check_point">
-                <div class="dlist_check_title" style="padding-bottom: 0px;">Комментарий эксперта</div>
+                <div class="dlist_check_title" style="padding-bottom: 0px">
+                    Комментарий эксперта
+                </div>
                 <span v-html="list.comment"> </span>
             </div>
         </div>
 
+        <div class="d_galery" v-if="d_galery.show">
+            <div class="d_galery_title row">
+                <div class="col-3">
+                    <div class="d_g_back" @click="close_galery()">
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 492 492" style="enable-background: new 0 0 492 492" xml:space="preserve">
+                            <g>
+                                <g>
+                                    <path fill="#fff" d="M198.608,246.104L382.664,62.04c5.068-5.056,7.856-11.816,7.856-19.024c0-7.212-2.788-13.968-7.856-19.032l-16.128-16.12
+
+C361.476,2.792,354.712,0,347.504,0s-13.964,2.792-19.028,7.864L109.328,227.008c-5.084,5.08-7.868,11.868-7.848,19.084
+
+c-0.02,7.248,2.76,14.028,7.848,19.112l218.944,218.932c5.064,5.072,11.82,7.864,19.032,7.864c7.208,0,13.964-2.792,19.032-7.864
+
+l16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z" />
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                </div>
+                <div></div>
+            </div>
+            <div class="d_gallery_carusel">
+                <div class="d_g_carusel">
+                    <div v-for="(v,k) in d_galery.list" :key="k">
+                        <div v-if="v.img != ''" class="d_g_point_carusel" :style="'background-image: url('+v.img+');'">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 </template>
@@ -953,7 +999,7 @@
 }
 
 .dlist_table_container>img {
-	max-width:19px;
+    max-width: 19px;
 }
 
 .dlist_table_block_v1 {
@@ -1144,6 +1190,73 @@ ul {
 .dlist_check_point {
     padding-bottom: 15px;
 }
+
+.d_galery {
+    position: fixed;
+    z-index: 99999;
+    min-height: 370px;
+    height: 100%;
+    background: #2f2f2f;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+
+}
+
+.d_galery_title {
+    width: 100%;
+    height: 10%;
+    min-height: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.d_g_photo>img {
+    width: 100%;
+    height: 100%;
+}
+
+.d_gallery_carusel {
+    width: 100%;
+    height: 80%;
+    min-height: 100px;
+}
+
+.d_gallery_menu {
+    width: 100%;
+    height: 10%;
+    min-height: 50px;
+}
+
+.d_g_carusel {
+    width: 100%;
+    height: 100%;
+    background-image: url("#");
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: auto;
+}
+
+.d_g_point_carusel {
+    width: 90%;
+    height: 100%;
+    min-width: 375px;
+    background-size: contain;
+    background-position: center;
+    background-image: url("#");
+    background-repeat: no-repeat;
+    margin-left: 5px;
+
+}
+
+.d_g_back {
+    padding: 20px 20px 20px 20px;
+}
 </style>
 
 <script>
@@ -1160,6 +1273,11 @@ module.exports = {
             see_car_info: {
                 text: "",
                 img: "",
+            },
+            d_galery: {
+                list: [],
+                show: false,
+                index: 0
             },
             damage_car_img: [],
             show_car_info: false,
@@ -1254,12 +1372,12 @@ module.exports = {
                 type: 0,
                 img: "",
                 /*list:[
-                        {
-                            img:'',
-                            text:'',
-                            status:''
-                        }
-                    ]*/
+                                {
+                                    img:'',
+                                    text:'',
+                                    status:''
+                                }
+                            ]*/
             },
             use_element_car: "def",
             show_menu_car: false,
@@ -1277,10 +1395,6 @@ module.exports = {
                             name: "Цвет",
                             field: ["color"],
                         },
-                        /*{
-                                                    name:'Кузов',
-                                                    field:['body']
-                                                },*/
                         {
                             name: "Кузов",
                             field: ["body"],
@@ -1298,18 +1412,21 @@ module.exports = {
                             field: ["type_transmission"],
                         },
                         {
-                            name: "Тип привода",
+                            name: "Привод",
                             field: ["type_drive"],
                         },
                         {
                             name: "Салон",
                             field: ["type_interior"],
                         },
-                        /*
                         {
-                            name: "Состояние",
-                            field: ["damage"],
-                        },*/
+                            name: "Цвет салон",
+                            field: ["color_salon"],
+                        },
+                        {
+                            name: "Пробег",
+                            field: ["range"],
+                        },
                     ],
                 },
 
@@ -1343,7 +1460,6 @@ module.exports = {
                             name: "Дата выдачи СТС",
                             field: ["date_sts"],
                         },
-
                     ],
                 },
 
@@ -1390,9 +1506,9 @@ module.exports = {
                             field: ["speedometer"],
                         },
                         /*{
-                            name: "Битый",
-                            field: ["damage"],
-                        },*/
+                                        name: "Битый",
+                                        field: ["damage"],
+                                    },*/
                     ],
                 },
             ],
@@ -1400,7 +1516,6 @@ module.exports = {
     },
     created: () => {
         //this.iphoto = 1;
-
     },
     computed: {
         count_photo: function () {
@@ -1416,7 +1531,7 @@ module.exports = {
             } else {
                 return 'background-image: url("#");';
             }
-        }
+        },
     },
     methods: {
         get_background: function (d) {
@@ -1477,17 +1592,17 @@ module.exports = {
                 }
             }
             //}
-            return (typer == 1) ? p : m;
-
+            return typer == 1 ? p : m;
         },
         convert_tester: function (d) {
             var l = []; // собираю список
             var t = []; // собираю тайтл
             var r = []; // результат
             var s = -1; // поисковой индекс
-            console.log("convert_tester");
-            console.log(d);
-            console.log(typeof d);
+            var config_name_img = {
+                name: "",
+                img: ""
+            };
             if (typeof d == "object" || typeof d == Array) {
                 for (var i = 0; i < d.length; i = i + 1) {
                     if (d[i] != null) {
@@ -1500,11 +1615,15 @@ module.exports = {
                             if (l[s] == undefined) {
                                 l[s] = [];
                             }
-
+                            config_name_img = this.get_name_img_procent_test(
+                                d[i].id,
+                                d[i].val.id,
+                                d[i].name
+                            );
                             l[s].push({
-                                name: d[i].name,
+                                name: config_name_img.name + d[i].name,
                                 status: d[i].val.id,
-                                img: d[i].val.id == 1 ? "ok" : "err",
+                                img: /*d[i].val.id == 1 ? "ok" : "err"*/ config_name_img.img,
                             });
                         }
                     }
@@ -1519,6 +1638,51 @@ module.exports = {
             }
 
             return r;
+        },
+        get_name_img_procent_test: function (id, imgid, name) {
+            var ename = this.get_name_procent_test(id);
+            var eimg = "";
+            if (ename == "") {
+                eimg = imgid == 1 ? "ok" : "err";
+            } else {
+                if (parseInt(name) > 20) {
+                    eimg = "ok";
+                } else {
+                    eimg = "err";
+                }
+            }
+
+            return {
+                name: ename,
+                img: eimg,
+            };
+        },
+        use_procent: function (q) {
+            for (var i = 0; i < 100; i = i + 5) {
+                if (q == i + "%") {
+                    return true;
+                }
+            }
+
+            return false;
+        },
+        get_name_procent_test: function (q) {
+            switch (q) {
+                case "1144":
+                    return "Остаток шин: ";
+                case "1143":
+                    return "Остаток ЗТД: ";
+                case "1142":
+                    return "Остаток ЗТК: ";
+                case "1141":
+                    return "Остаток ПТД: ";
+                case "1140":
+                    return "Остаток ПТК: ";
+                default:
+                    return "";
+            }
+
+            return "";
         },
         convert_checker: function (data) {
             var list = [];
@@ -1546,10 +1710,14 @@ module.exports = {
             if (n.length > 0) {
                 if (typeof n == Array || typeof n == "object") {
                     //if (n != [])
-                    console.log('length')
-                    console.log(n.length)
+                    console.log("length");
+                    console.log(n.length);
                     for (var i = 0; i < n.length; i++) {
-                        if (n[i] == "date_end" || n[i] == "date_pts" || n[i] == "date_sts") {
+                        if (
+                            n[i] == "date_end" ||
+                            n[i] == "date_pts" ||
+                            n[i] == "date_sts"
+                        ) {
                             if (new Date(this.list[n[i]]) != "Invalid Date") {
                                 var date = new Date(this.list[n[i]]);
 
@@ -1563,21 +1731,24 @@ module.exports = {
                                     "." +
                                     date.getFullYear() +
                                     " ";
-                            } else {
-                            }
+                            } else {}
                         } else {
-                            c = c + this.vi(this.list[n[i]]) + (n[i]=='power'?'л.с.':'')+((n.length>1)?"/":"");
+                            c =
+                                c +
+                                this.vi(this.list[n[i]]) +
+                                (n[i] == "power" ? "л.с." : "") +
+                                (n.length > 1 ? "/" : "");
                         }
                     }
                 } else {
-                    c = c + this.vi(this.list[n]) + (n.length>1?"/":"");
+                    c = c + this.vi(this.list[n]) + (n.length > 1 ? "/" : "");
                 }
             }
 
-            if ((c.replace(/\s+/g, '')).replace(/\//g, '') == '') {
-                return '';
+            if (c.replace(/\s+/g, "").replace(/\//g, "") == "") {
+                return "";
             }
-            if (c.toString().slice(-1) == '/') {
+            if (c.toString().slice(-1) == "/") {
                 return c.toString().slice(0, -1);
             }
 
@@ -1609,7 +1780,7 @@ module.exports = {
             }
 
             if (t == "" || t == undefined) {
-                return '';
+                return "";
             }
 
             return t;
@@ -1635,7 +1806,6 @@ module.exports = {
             return "";
         },
         point: function (t) {
-
             if (this.list.block[t].type != 0) {
                 this.show_car_info = true;
                 this.see_car_info.text = this.list.block[t].comment;
@@ -1653,15 +1823,27 @@ module.exports = {
             return false;
         },
         pic_damage_v2: function () {
-
             for (var key in this.list.block) {
                 if (this.list.block[key].img.length > 0) {
-                    return true
+                    return true;
                 }
                 console.log(this.list.block[key].img);
             }
 
             return false;
+        },
+        show_galery: function (list, k) {
+            console.log(
+                'show_galery'
+            );
+            console.log(list);
+            console.log(k);
+            this.d_galery.list = list;
+            this.d_galery.show = true;
+        },
+        close_galery: function () {
+            this.d_galery.list = [];
+            this.d_galery.show = false;
         }
     },
 };
