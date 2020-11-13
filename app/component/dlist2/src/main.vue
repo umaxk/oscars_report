@@ -3,7 +3,7 @@
     <div class="">
         <!-- header -->
         <div class="d_container d_header">
-            <h2>Диагностический лист по авто</h2>
+            <h2>Диагностический лис</h2>
             <!-- марка модель генерация год-->
             <p v-html="
             vi(list.brand) +
@@ -38,7 +38,7 @@
             <div class="d_expert" v-html="'Эксперт: ' + (list.expert == '' ? '-' : list.expert)">
                 Эксперт: Роман Рыбкин
             </div>
-            <div class="d_time" v-html="mod == 1 && list.created == '' ? emp() : list.created">
+            <div class="d_time" v-html="mod == 1 && list.created == '' ? emp() : convert_date(list.created)">
                 00:00 01.01.2020
             </div>
         </div>
@@ -734,11 +734,40 @@
                 </div>
             </div>
         </div>
+
+        <div class="dlist_hr_v2" v-if="convert_tester(list.equipment_tests).length != 0">
+            <hr />
+        </div>
         <!-- -->
+
+        <div class="d_container dlist_check_auto" v-if="convert_tester(list.equipment_salon_tests).length != 0">
+            <div class="dist_table_header" style="font_size: 25px">
+                Проверка автомобиля
+            </div>
+            <div class="d_inform_car">
+                Проверка производится экспертом перед <br />автомобилем.
+            </div>
+            <div class="dlist_check_point" :key="kt" v-for="(vt, kt) in convert_tester(list.equipment_salon_tests)">
+                <div class="dlist_check_title" v-html="vt.name">Работа акпп/мкпп</div>
+                <div class="dlist_check_list" :key="kti" v-for="(vti, kti) in vt.list">
+                    <div class="dlist_check_status">
+                        <img :src="'./img/dlist/' + vti.img + '.svg'" alt="" />
+                    </div>
+                    <div class="dlist_check_text" v-html="vti.name">
+                        При переключении передач на месте без замечаний
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--  -->
+        <div class="dlist_hr_v2" v-if="convert_tester(list.equipment_salon_tests).length != 0">
+            <hr />
+        </div>
 
         <div class="d_container dlist_video" v-if="list.video_list.review.url.length > 2">
             <div class="dlist_check_title video_title">Видео осмотра</div>
-            <div class="d_inform_car" style="margin-bottom: 10px">
+            <div class="d_inform_car" style="margin-bottom: 12px">
                 Съемка видео производится по регламенту.
             </div>
             <video controls="controls" :poster="'./img/dlist/def.jpeg'" width="100%" height="200">
@@ -746,18 +775,18 @@
             </video>
         </div>
         <!-- -->
-        <!-- -->
+        <!--  -->
 
-        <div class="d_container dlist_video" v-if="list.video_list.test_drive.url.length > 2">
+        <div class="d_container dlist_video" style="padding-top: 10px;" v-if="list.video_list.test_drive.url.length > 2">
             <div class="dlist_check_title video_title">Видео запуска двигателя</div>
-            <div class="d_inform_car" style="margin-bottom: 10px">
+            <div class="d_inform_car" style="margin-bottom: 12px">
                 Съемка видео производится по регламенту.
             </div>
             <video controls="controls" :poster="'./img/dlist/def.jpeg'" width="100%" height="200">
                 <source :src="list.video_list.test_drive.url" type="video/mp4" />
             </video>
         </div>
-        <!-- -->
+        <!--  -->
 
         <div class="dlist_hr_v2" v-if="list.video_list.test_drive.url.length > 2">
             <hr />
@@ -1117,7 +1146,7 @@ svg {
 }
 
 .dlist_video {
-    padding-top: 10px;
+    padding-top: 0px;
 }
 
 .dlist_video>video {
@@ -1125,7 +1154,7 @@ svg {
 }
 
 .video_title {
-    padding-bottom: 0px !important;
+    padding-bottom: 5px !important;
 }
 
 ul {
@@ -1151,7 +1180,7 @@ ul {
 }
 
 .d_car_c_v1 {
-    height: 500px;
+    height: 445px;
 }
 
 .e-point-hand {
@@ -1793,6 +1822,20 @@ module.exports = {
             e = e + "</span>";
 
             return e;
+        },
+
+        /** 
+         * @var d date {string, object}
+         *
+         * @return string date or emp string
+         */
+        convert_date: function (d) {
+            d = new Date(d);
+            if (d != 'Invalid Date') {
+                return d.getDate() + '.' + (d.getMonth() + 1) + '.' + d.getFullYear();
+            }
+
+            return this.emp();
         },
 
         get_color_car: function (t) {

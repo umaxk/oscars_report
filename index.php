@@ -29,6 +29,7 @@
     margin:auto;
     max-width:400px;
     margin-top: 20px;
+    margin-bottom: 50px;
 }
 </style>
 <body>
@@ -37,14 +38,14 @@
     </div>
     <script src="/js/lib/axios.min.js"></script>
     <script src="/js/lib/vue.js"></script>
-    <script src="/app/component/dlist2/bbuild.js?e=<?=((int) microtime(true))?>"></script>
+    <script src="/app/component/dlist2/build.js?e=<?=((int) microtime(true))?>"></script>
     <script>
-
         var hash = '<?=str_replace(['/', '"', "'", ',', '.'], '', $_GET['_url'])?>';
         var app = new Vue({
             el: '.app',
             data: {
-                list:{}
+                see: [],
+                list: {},
             },
             created: function () {
                 this.get();
