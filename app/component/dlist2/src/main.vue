@@ -3,7 +3,7 @@
     <div class="">
         <!-- header -->
         <div class="d_container d_header">
-            <h2>Диагностический лис</h2>
+            <h2>Диагностический лист</h2>
             <!-- марка модель генерация год-->
             <p v-html="
             vi(list.brand) +
@@ -777,7 +777,15 @@
                     <div class="e_pic_v1" v-if="vf.img != ''" @click="show_galery(list.photo_list_diagnost, kd)" :style="'background-image: url(' + vf.img + ');'"></div>
                 </div>
             </div>
-            <span v-html="list.comment_diagnost"> </span>
+            <div class="dist_table_header" style="font_size: 25px" v-if="list.comment_diagnost != ''">
+                Комментарии диагностики
+            </div>
+
+            <span v-html="list.comment_diagnost"></span>
+        </div>
+
+        <div class="dlist_hr_v2" v-if="list.photo_list_diagnost.length != 0 || list.comment_diagnost !=''">
+            <hr />
         </div>
 
         <div class="d_container dlist_video" v-if="list.video_list.review.url.length > 2">
@@ -879,7 +887,7 @@
             </div>
         </div>
 
-        <div class="d_galery" v-if="d_galery.show">
+        <div class="d_galery" v-show="d_galery.show">
             <div class="d_galery_title row">
                 <div class="col-3">
                     <div class="d_g_back" @click="close_galery()">
@@ -902,8 +910,8 @@ l16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z" />
             </div>
             <div class="d_gallery_carusel">
                 <div class="d_g_carusel">
-                    <div v-for="(v, k) in d_galery.list" :key="k">
-                        <div v-if="v.img != ''" class="d_g_point_carusel" :style="'background-image: url(' + v.img + ');'"></div>
+                    <div class="d_g_container" v-for="(v, k) in d_galery.list" :key="k">
+                        <div v-if="v.img != ''" class="d_g_point_carusel" :style="'background-image: url(' + v.img + '); width:'+photo_wi+';padding:10px; margin-rigth:10px;'"></div>
                     </div>
                 </div>
             </div>
@@ -1284,7 +1292,7 @@ ul {
 }
 
 .d_g_point_carusel {
-    width: 90%;
+    width: 100%;
     height: 100%;
     min-width: 375px;
     background-size: contain;
@@ -1297,6 +1305,8 @@ ul {
 .d_g_back {
     padding: 20px 20px 20px 20px;
 }
+
+.d_g_container {}
 </style>
 
 <script>
@@ -1310,6 +1320,7 @@ module.exports = {
     },
     data: function () {
         return {
+            photo_wi: '375px',
             see_car_info: {
                 text: "",
                 img: "",
@@ -1887,9 +1898,6 @@ module.exports = {
             return false;
         },
         show_galery: function (list, k) {
-            console.log("show_galery");
-            console.log(list);
-            console.log(k);
             this.d_galery.list = list;
             this.d_galery.show = true;
         },
@@ -1898,5 +1906,22 @@ module.exports = {
             this.d_galery.show = false;
         },
     },
+    watch: {
+        'd_galery.show': function (t) {
+            console.log('eeee');
+            console.log(t);
+            if (t) {
+                var vm = this;
+                var d_g_c = document.querySelector('body').offsetWidth;
+                if (d_g_c > 380) {
+                    setTimeout(function () {
+                        vm.photo_wi = (d_g_c - 25) + 'px';
+                    }, 10);
+                    //
+                }
+                console.log('-->>' + d_g_c);
+            }
+        }
+    }
 };
 </script>
