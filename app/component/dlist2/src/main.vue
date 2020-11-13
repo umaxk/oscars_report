@@ -801,7 +801,7 @@
         <!--  -->
 
         <div class="d_container dlist_video" style="padding-top: 10px" v-if="list.video_list.test_drive.url.length > 2">
-            <div class="dlist_check_title video_title">Видео запуска двигателя</div>
+            <div class="dlist_check_title video_title">Видео тест-драйва</div>
             <div class="d_inform_car" style="margin-bottom: 12px">
                 Съемка видео производится по регламенту.
             </div>
@@ -812,6 +812,36 @@
         <!--  -->
 
         <div class="dlist_hr_v2" v-if="list.video_list.test_drive.url.length > 2">
+            <hr />
+        </div>
+
+        <div class="d_container dlist_video" style="padding-top: 10px" v-if="list.video_list.start.url.length > 2">
+            <div class="dlist_check_title video_title">Видео "Запуск двигателя"</div>
+            <div class="d_inform_car" style="margin-bottom: 12px">
+                Съемка видео производится по регламенту.
+            </div>
+            <video controls="controls" :poster="'./img/dlist/def.jpeg'" width="100%" height="200">
+                <source :src="list.video_list.start.url" type="video/mp4" />
+            </video>
+        </div>
+        <!--  -->
+
+        <div class="dlist_hr_v2" v-if="list.video_list.start.url.length > 2">
+            <hr />
+        </div>
+
+        <div class="d_container dlist_video" style="padding-top: 10px" v-if="list.video_list.vihlop.url.length > 2">
+            <div class="dlist_check_title video_title">Видео "Выхлоп"</div>
+            <div class="d_inform_car" style="margin-bottom: 12px">
+                Съемка видео производится по регламенту.
+            </div>
+            <video controls="controls" :poster="'./img/dlist/def.jpeg'" width="100%" height="200">
+                <source :src="list.video_list.vihlop.url" type="video/mp4" />
+            </video>
+        </div>
+        <!--  -->
+
+        <div class="dlist_hr_v2" v-if="list.video_list.vihlop.url.length > 2">
             <hr />
         </div>
 
