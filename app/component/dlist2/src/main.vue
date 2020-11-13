@@ -38,7 +38,9 @@
             <div class="d_expert" v-html="'Эксперт: ' + (list.expert == '' ? '-' : list.expert)">
                 Эксперт: Роман Рыбкин
             </div>
-            <div class="d_time" v-html="mod == 1 && list.created == '' ? emp() : convert_date(list.created)">
+            <div class="d_time" v-html="
+            mod == 1 && list.created == '' ? emp() : convert_date(list.created)
+          ">
                 00:00 01.01.2020
             </div>
         </div>
@@ -742,7 +744,7 @@
 
         <div class="d_container dlist_check_auto" v-if="convert_tester(list.equipment_salon_tests).length != 0">
             <div class="dist_table_header" style="font_size: 25px">
-                Проверка автомобиля
+                Проверка салона
             </div>
             <div class="d_inform_car">
                 Проверка производится экспертом перед <br />автомобилем.
@@ -765,6 +767,19 @@
             <hr />
         </div>
 
+        <div class="d_container dlist_check_auto" v-if="convert_tester(list.equipment_salon_tests).length != 0">
+            <div class="dist_table_header" style="font_size: 25px">
+                Результаты компьютерной диагностики
+            </div>
+
+            <div class="d_informer_photo">
+                <div :key="kd" v-for="(vf, kd) in list.photo_list_diagnost">
+                    <div class="e_pic_v1" v-if="vf.img != ''" @click="show_galery(list.photo_list_diagnost, kd)" :style="'background-image: url(' + vf.img + ');'"></div>
+                </div>
+            </div>
+            <span v-html="list.comment_diagnost"> </span>
+        </div>
+
         <div class="d_container dlist_video" v-if="list.video_list.review.url.length > 2">
             <div class="dlist_check_title video_title">Видео осмотра</div>
             <div class="d_inform_car" style="margin-bottom: 12px">
@@ -777,7 +792,7 @@
         <!-- -->
         <!--  -->
 
-        <div class="d_container dlist_video" style="padding-top: 10px;" v-if="list.video_list.test_drive.url.length > 2">
+        <div class="d_container dlist_video" style="padding-top: 10px" v-if="list.video_list.test_drive.url.length > 2">
             <div class="dlist_check_title video_title">Видео запуска двигателя</div>
             <div class="d_inform_car" style="margin-bottom: 12px">
                 Съемка видео производится по регламенту.
@@ -887,10 +902,8 @@ l16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z" />
             </div>
             <div class="d_gallery_carusel">
                 <div class="d_g_carusel">
-                    <div v-for="(v,k) in d_galery.list" :key="k">
-                        <div v-if="v.img != ''" class="d_g_point_carusel" :style="'background-image: url('+v.img+');'">
-                        </div>
-
+                    <div v-for="(v, k) in d_galery.list" :key="k">
+                        <div v-if="v.img != ''" class="d_g_point_carusel" :style="'background-image: url(' + v.img + ');'"></div>
                     </div>
                 </div>
             </div>
@@ -1231,7 +1244,6 @@ ul {
     left: 0;
     right: 0;
     width: 100%;
-
 }
 
 .d_galery_title {
@@ -1280,7 +1292,6 @@ ul {
     background-image: url("#");
     background-repeat: no-repeat;
     margin-left: 5px;
-
 }
 
 .d_g_back {
@@ -1306,7 +1317,7 @@ module.exports = {
             d_galery: {
                 list: [],
                 show: false,
-                index: 0
+                index: 0,
             },
             damage_car_img: [],
             show_car_info: false,
@@ -1401,12 +1412,12 @@ module.exports = {
                 type: 0,
                 img: "",
                 /*list:[
-                                {
-                                    img:'',
-                                    text:'',
-                                    status:''
-                                }
-                            ]*/
+                                        {
+                                            img:'',
+                                            text:'',
+                                            status:''
+                                        }
+                                    ]*/
             },
             use_element_car: "def",
             show_menu_car: false,
@@ -1535,9 +1546,9 @@ module.exports = {
                             field: ["speedometer"],
                         },
                         /*{
-                                        name: "Битый",
-                                        field: ["damage"],
-                                    },*/
+                                                    name: "Битый",
+                                                    field: ["damage"],
+                                                },*/
                     ],
                 },
             ],
@@ -1630,7 +1641,7 @@ module.exports = {
             var s = -1; // поисковой индекс
             var config_name_img = {
                 name: "",
-                img: ""
+                img: "",
             };
             if (typeof d == "object" || typeof d == Array) {
                 for (var i = 0; i < d.length; i = i + 1) {
@@ -1824,15 +1835,15 @@ module.exports = {
             return e;
         },
 
-        /** 
+        /**
          * @var d date {string, object}
          *
          * @return string date or emp string
          */
         convert_date: function (d) {
             d = new Date(d);
-            if (d != 'Invalid Date') {
-                return d.getDate() + '.' + (d.getMonth() + 1) + '.' + d.getFullYear();
+            if (d != "Invalid Date") {
+                return d.getDate() + "." + (d.getMonth() + 1) + "." + d.getFullYear();
             }
 
             return this.emp();
@@ -1876,9 +1887,7 @@ module.exports = {
             return false;
         },
         show_galery: function (list, k) {
-            console.log(
-                'show_galery'
-            );
+            console.log("show_galery");
             console.log(list);
             console.log(k);
             this.d_galery.list = list;
@@ -1887,7 +1896,7 @@ module.exports = {
         close_galery: function () {
             this.d_galery.list = [];
             this.d_galery.show = false;
-        }
+        },
     },
 };
 </script>
