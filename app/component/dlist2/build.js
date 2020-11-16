@@ -114,7 +114,7 @@
 
 
 	// module
-	exports.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n.dlist_main {\r\n    margin: auto;\r\n    min-width: 365px;\r\n    font-family: \"Jost-Light\", sans-serif !important;\r\n    /*padding: 0px 10px 0px 10px;*/\r\n}\r\n\r\n.d_container {\r\n    padding: 0px 20px 0px 20px;\r\n    margin: auto;\r\n}\r\n\r\n.d_container_g {\r\n    padding: 0px 0px 0px 20px;\r\n    margin: auto;\r\n}\r\n\r\n.d_header {\r\n    line-height: 1.2em;\r\n}\r\n\r\n.d_header>h2 {\r\n    font-size: 24px;\r\n    font-weight: bold;\r\n}\r\n\r\n.d_header>p {\r\n    font-size: 20px;\r\n    font-weight: 500;\r\n    margin-bottom: 5px;\r\n}\r\n\r\n.d_header>span {\r\n    color: #7e7979;\r\n    font-size: 14px;\r\n}\r\n\r\n.d_informer_photo {\r\n    width: 100%;\r\n    height: 255px;\r\n    background-image: url(\"#\");\r\n    background-position: center;\r\n    background-size: cover;\r\n    margin-top: 10px;\r\n    display: -ms-flexbox;\r\n    display: flex;\r\n    overflow: auto;\r\n}\r\n\r\n.e_pic_v1 {\r\n    width: 95%;\r\n    height: 235px;\r\n    border-radius: 10px;\r\n    min-width: 310px;\r\n    background-size: cover;\r\n    background-position: center;\r\n    margin-right: 10px;\r\n}\r\n\r\n.d_block_expert_time {\r\n    padding: 5px 20px 10px 20px;\r\n    color: #7e7979;\r\n    font-size: 16px;\r\n    height: 10px;\r\n}\r\n\r\n.d_expert {\r\n    float: left;\r\n}\r\n\r\n.d_time {\r\n    float: right;\r\n}\r\n\r\n.d_ots {\r\n    background-color: #bdbaba;\r\n    width: 100%;\r\n    height: 1px;\r\n    margin-top: 20px;\r\n    margin-bottom: 20px;\r\n}\r\n\r\n.dlist_hr {\r\n    width: 99%;\r\n    margin: auto;\r\n}\r\n\r\n.dlist_hr>hr {\r\n    background-color: #e9e9e9;\r\n    color: #e9e9e9;\r\n}\r\n\r\n.dlist_hr_v3 {\r\n    width: 99%;\r\n    margin: auto;\r\n}\r\n\r\n.dlist_hr_v3>hr {\r\n    background-color: #e9e9e9;\r\n    color: #e9e9e9;\r\n    margin-top: 10px;\r\n    margin-bottom: 10px;\r\n}\r\n\r\n.dlist_hr_v2 {\r\n    width: 99%;\r\n    margin: auto;\r\n}\r\n\r\n.dlist_hr_v2>hr {\r\n    background-color: #e9e9e9;\r\n    color: #e9e9e9;\r\n    height: 10px;\r\n    height: 10px;\r\n    border-top: none;\r\n}\r\n\r\n.dlist_table {\r\n    margin-bottom: 15px;\r\n}\r\n\r\n.dlist_table_container {\r\n    width: 100%;\r\n    display: -ms-flexbox;\r\n    display: flex;\r\n    padding-top: 3px;\r\n}\r\n\r\n.dlist_table_container>img {\r\n    max-width: 19px;\r\n}\r\n\r\n.dlist_table_block_v1 {\r\n    width: 50%;\r\n    overflow: hidden;\r\n    white-space: pre-line;\r\n}\r\n\r\n.dlist_table_block_v2_l {\r\n    width: 8%;\r\n    overflow: hidden;\r\n    white-space: pre-line;\r\n}\r\n\r\n.dlist_table_block_v2_l>img {\r\n    width: 20px;\r\n}\r\n\r\n.dlist_table_block_v2_r {\r\n    width: 90%;\r\n    overflow: hidden;\r\n    white-space: pre-line;\r\n}\r\n\r\n.dlist_table_block_v2_r>img {\r\n    width: 20px;\r\n}\r\n\r\n.dist_table_header {\r\n    font-size: 20px;\r\n    font-weight: bold;\r\n    color: #000;\r\n    padding-bottom: 0px;\r\n}\r\n\r\n.dlist_informer_gray_text {\r\n    font-size: 14px;\r\n    color: #b5b5b5;\r\n}\r\n\r\n.dlist_informer_black_text {\r\n    font-size: 14px;\r\n    color: #000;\r\n    padding-left: 5px;\r\n}\r\n\r\n.dlist_informer_green_text {\r\n    font-size: 20px;\r\n    color: #bed134;\r\n}\r\n\r\n.btn_gray {\r\n    color: #fff;\r\n    background-color: #b6b6b6;\r\n    width: 100%;\r\n    text-align: center;\r\n    cursor: pointer;\r\n    padding: 10px 10px 10px 10px;\r\n    border-radius: 10px;\r\n}\r\n\r\n.btn_green {\r\n    color: #fff;\r\n    background-color: #20b12e;\r\n    width: 100%;\r\n    text-align: center;\r\n    cursor: pointer;\r\n    padding: 10px 10px 10px 10px;\r\n    border-radius: 10px;\r\n}\r\n\r\n.d_inform_car {\r\n    font-size: 12px;\r\n    color: #7e7979;\r\n}\r\n\r\n.d_car_config {\r\n    padding-bottom: 20px;\r\n}\r\n\r\n.dist_table_header {\r\n    font-size: 20px;\r\n    font-weight: bold;\r\n    color: #000;\r\n    padding-bottom: 5px;\r\n}\r\n\r\n.dlist_check_title {\r\n    font-weight: bold;\r\n    font-size: 18px;\r\n    padding-bottom: 10px;\r\n}\r\n\r\n.dlist_check_status>img,\r\nsvg {\r\n    height: 15px;\r\n    margin-top: -6px;\r\n}\r\n\r\n.dlist_check_list {\r\n    display: -ms-flexbox;\r\n    display: flex;\r\n    padding-bottom: 2px;\r\n}\r\n\r\n.dlist_check_status {\r\n    width: 30px;\r\n}\r\n\r\n.dlist_check_text {\r\n    font-size: 14px;\r\n}\r\n\r\n.d_inform_car_video {\r\n    margin-bottom: 10px;\r\n}\r\n\r\n.dlist_video {\r\n    padding-top: 0px;\r\n}\r\n\r\n.dlist_video>video {\r\n    border-radius: 10px;\r\n}\r\n\r\n.video_title {\r\n    padding-bottom: 5px !important;\r\n}\r\n\r\nul {\r\n    padding-left: 15px;\r\n}\r\n\r\n.dlist_ul>li {\r\n    color: #bed134;\r\n    padding-bottom: 5px;\r\n}\r\n\r\n.dlist_ul>li>span {\r\n    font-size: 16px;\r\n    color: #000;\r\n}\r\n\r\n.green {\r\n    color: #bed134;\r\n}\r\n\r\n.red {\r\n    color: #d13434;\r\n}\r\n\r\n.d_car_c_v1 {\r\n    height: 445px;\r\n}\r\n\r\n.e-point-hand {\r\n    display: none;\r\n}\r\n\r\n.view_img {\r\n    position: absolute;\r\n    z-index: 9999;\r\n    width: 90%;\r\n    height: 450px;\r\n    background: #fff;\r\n}\r\n\r\n.view_img_close {\r\n    text-align: center;\r\n    font-size: 12px;\r\n    cursor: pointer;\r\n}\r\n\r\n.view_img_img {\r\n    height: 300px;\r\n    text-align: center;\r\n}\r\n\r\n.view_img_img>img {\r\n    margin: auto;\r\n    max-width: 100%;\r\n    max-height: 100%;\r\n}\r\n\r\n.view_img_text {\r\n    font-size: 14px;\r\n}\r\n\r\n.dlist_check_point {\r\n    padding-bottom: 15px;\r\n}\r\n\r\n.d_galery {\r\n    position: fixed;\r\n    z-index: 99999;\r\n    min-height: 370px;\r\n    height: 100%;\r\n    background: #2f2f2f;\r\n    top: 0;\r\n    bottom: 0;\r\n    left: 0;\r\n    right: 0;\r\n    width: 100%;\r\n}\r\n\r\n.d_galery_title {\r\n    width: 100%;\r\n    height: 10%;\r\n    min-height: 50px;\r\n    text-align: center;\r\n    color: #fff;\r\n}\r\n\r\n.d_g_photo>img {\r\n    width: 100%;\r\n    height: 100%;\r\n}\r\n\r\n.d_gallery_carusel {\r\n    width: 100%;\r\n    height: 80%;\r\n    min-height: 100px;\r\n}\r\n\r\n.d_gallery_menu {\r\n    width: 100%;\r\n    height: 10%;\r\n    min-height: 50px;\r\n}\r\n\r\n.d_g_carusel {\r\n    width: 100%;\r\n    height: 100%;\r\n    background-image: url(\"#\");\r\n    background-position: center;\r\n    background-size: cover;\r\n    margin-top: 10px;\r\n    display: -ms-flexbox;\r\n    display: flex;\r\n    overflow: auto;\r\n}\r\n\r\n.d_g_point_carusel {\r\n    width: 100%;\r\n    height: 100%;\r\n    min-width: 375px;\r\n    background-size: contain;\r\n    background-position: center;\r\n    background-image: url(\"#\");\r\n    background-repeat: no-repeat;\r\n    margin-left: 5px;\r\n}\r\n\r\n.d_g_back {\r\n    padding: 20px 20px 20px 20px;\r\n}\r\n\r\n.d_g_container {}\r\n", ""]);
+	exports.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n.dlist_main {\r\n  margin: auto;\r\n  min-width: 365px;\r\n  font-family: \"Jost-Light\", sans-serif !important;\r\n  /*padding: 0px 10px 0px 10px;*/\r\n}\r\n\r\n.d_container {\r\n  padding: 0px 20px 0px 20px;\r\n  margin: auto;\r\n}\r\n\r\n.d_container_g {\r\n  padding: 0px 0px 0px 20px;\r\n  margin: auto;\r\n}\r\n\r\n.d_header {\r\n  line-height: 1.2em;\r\n}\r\n\r\n.d_header > h2 {\r\n  font-size: 24px;\r\n  font-weight: bold;\r\n}\r\n\r\n.d_header > p {\r\n  font-size: 20px;\r\n  font-weight: 500;\r\n  margin-bottom: 5px;\r\n}\r\n\r\n.d_header > span {\r\n  color: #7e7979;\r\n  font-size: 14px;\r\n}\r\n\r\n.d_informer_photo {\r\n  width: 100%;\r\n  height: 255px;\r\n  background-image: url(\"#\");\r\n  background-position: center;\r\n  background-size: cover;\r\n  margin-top: 10px;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  overflow: auto;\r\n}\r\n\r\n.e_pic_v1 {\r\n  width: 95%;\r\n  height: 235px;\r\n  border-radius: 10px;\r\n  min-width: 310px;\r\n  background-size: cover;\r\n  background-position: center;\r\n  margin-right: 10px;\r\n}\r\n\r\n.d_block_expert_time {\r\n  padding: 5px 20px 10px 20px;\r\n  color: #7e7979;\r\n  font-size: 16px;\r\n  height: 10px;\r\n}\r\n\r\n.d_expert {\r\n  float: left;\r\n}\r\n\r\n.d_time {\r\n  float: right;\r\n}\r\n\r\n.d_ots {\r\n  background-color: #bdbaba;\r\n  width: 100%;\r\n  height: 1px;\r\n  margin-top: 20px;\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.dlist_hr {\r\n  width: 99%;\r\n  margin: auto;\r\n}\r\n\r\n.dlist_hr > hr {\r\n  background-color: #e9e9e9;\r\n  color: #e9e9e9;\r\n}\r\n\r\n.dlist_hr_v3 {\r\n  width: 99%;\r\n  margin: auto;\r\n}\r\n\r\n.dlist_hr_v3 > hr {\r\n  background-color: #e9e9e9;\r\n  color: #e9e9e9;\r\n  margin-top: 10px;\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.dlist_hr_v2 {\r\n  width: 99%;\r\n  margin: auto;\r\n}\r\n\r\n.dlist_hr_v2 > hr {\r\n  background-color: #e9e9e9;\r\n  color: #e9e9e9;\r\n  height: 10px;\r\n  height: 10px;\r\n  border-top: none;\r\n}\r\n\r\n.dlist_table {\r\n  margin-bottom: 15px;\r\n}\r\n\r\n.dlist_table_container {\r\n  width: 100%;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  padding-top: 3px;\r\n}\r\n\r\n.dlist_table_container > img {\r\n  max-width: 19px;\r\n}\r\n\r\n.dlist_table_block_v1 {\r\n  width: 50%;\r\n  overflow: hidden;\r\n  white-space: pre-line;\r\n}\r\n\r\n.dlist_table_block_v2_l {\r\n  width: 8%;\r\n  overflow: hidden;\r\n  white-space: pre-line;\r\n}\r\n\r\n.dlist_table_block_v2_l > img {\r\n  width: 20px;\r\n}\r\n\r\n.dlist_table_block_v2_r {\r\n  width: 90%;\r\n  overflow: hidden;\r\n  white-space: pre-line;\r\n}\r\n\r\n.dlist_table_block_v2_r > img {\r\n  width: 20px;\r\n}\r\n\r\n.dist_table_header {\r\n  font-size: 20px;\r\n  font-weight: bold;\r\n  color: #000;\r\n  padding-bottom: 0px;\r\n}\r\n\r\n.dlist_informer_gray_text {\r\n  font-size: 14px;\r\n  color: #b5b5b5;\r\n}\r\n\r\n.dlist_informer_black_text {\r\n  font-size: 14px;\r\n  color: #000;\r\n  padding-left: 5px;\r\n}\r\n\r\n.dlist_informer_green_text {\r\n  font-size: 20px;\r\n  color: #bed134;\r\n}\r\n\r\n.btn_gray {\r\n  color: #fff;\r\n  background-color: #b6b6b6;\r\n  width: 100%;\r\n  text-align: center;\r\n  cursor: pointer;\r\n  padding: 10px 10px 10px 10px;\r\n  border-radius: 10px;\r\n}\r\n\r\n.btn_green {\r\n  color: #fff;\r\n  background-color: #20b12e;\r\n  width: 100%;\r\n  text-align: center;\r\n  cursor: pointer;\r\n  padding: 10px 10px 10px 10px;\r\n  border-radius: 10px;\r\n}\r\n\r\n.d_inform_car {\r\n  font-size: 12px;\r\n  color: #7e7979;\r\n}\r\n\r\n.d_car_config {\r\n  padding-bottom: 20px;\r\n}\r\n\r\n.dist_table_header {\r\n  font-size: 20px;\r\n  font-weight: bold;\r\n  color: #000;\r\n  padding-bottom: 5px;\r\n}\r\n\r\n.dlist_check_title {\r\n  font-weight: bold;\r\n  font-size: 18px;\r\n  padding-bottom: 10px;\r\n}\r\n\r\n.dlist_check_status > img,\r\nsvg {\r\n  height: 15px;\r\n  margin-top: -6px;\r\n}\r\n\r\n.dlist_check_list {\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  padding-bottom: 2px;\r\n}\r\n\r\n.dlist_check_status {\r\n  width: 30px;\r\n}\r\n\r\n.dlist_check_text {\r\n  font-size: 14px;\r\n}\r\n\r\n.d_inform_car_video {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.dlist_video {\r\n  padding-top: 0px;\r\n}\r\n\r\n.dlist_video > video {\r\n  border-radius: 10px;\r\n}\r\n\r\n.video_title {\r\n  padding-bottom: 5px !important;\r\n}\r\n\r\nul {\r\n  padding-left: 15px;\r\n}\r\n\r\n.dlist_ul > li {\r\n  color: #bed134;\r\n  padding-bottom: 5px;\r\n}\r\n\r\n.dlist_ul > li > span {\r\n  font-size: 16px;\r\n  color: #000;\r\n}\r\n\r\n.green {\r\n  color: #bed134;\r\n}\r\n\r\n.red {\r\n  color: #d13434;\r\n}\r\n\r\n.d_car_c_v1 {\r\n  height: 445px;\r\n}\r\n\r\n.e-point-hand {\r\n  display: none;\r\n}\r\n\r\n.view_img {\r\n  position: absolute;\r\n  z-index: 9999;\r\n  width: 90%;\r\n  height: 450px;\r\n  background: #fff;\r\n}\r\n\r\n.view_img_close {\r\n  text-align: center;\r\n  font-size: 12px;\r\n  cursor: pointer;\r\n}\r\n\r\n.view_img_img {\r\n  height: 300px;\r\n  text-align: center;\r\n}\r\n\r\n.view_img_img > img {\r\n  margin: auto;\r\n  max-width: 100%;\r\n  max-height: 100%;\r\n}\r\n\r\n.view_img_text {\r\n  font-size: 14px;\r\n}\r\n\r\n.dlist_check_point {\r\n  padding-bottom: 15px;\r\n}\r\n\r\n.d_galery {\r\n  position: fixed;\r\n  z-index: 99999;\r\n  min-height: 370px;\r\n  height: 100%;\r\n  background: #2f2f2f;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n  width: 100%;\r\n}\r\n\r\n.d_galery_title {\r\n  width: 100%;\r\n  height: 10%;\r\n  min-height: 50px;\r\n  text-align: center;\r\n  color: #fff;\r\n}\r\n\r\n.d_g_photo > img {\r\n  width: 100%;\r\n  height: 100%;\r\n}\r\n\r\n.d_gallery_carusel {\r\n  width: 100%;\r\n  height: 88%;\r\n  min-height: 100px;\r\n}\r\n\r\n.d_gallery_menu {\r\n  width: 100%;\r\n  height: 10%;\r\n  min-height: 50px;\r\n}\r\n\r\n.d_g_carusel {\r\n  width: 100%;\r\n  height: 100%;\r\n  background-image: url(\"#\");\r\n  background-position: center;\r\n  background-size: cover;\r\n  margin-top: 10px;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  overflow: auto;\r\n}\r\n\r\n.d_g_point_carusel {\r\n  width: 100%;\r\n  height: 100%;\r\n  min-width: 375px;\r\n  background-size: contain;\r\n  background-position: center;\r\n  background-image: url(\"#\");\r\n  background-repeat: no-repeat;\r\n  margin-left: 5px;\r\n}\r\n\r\n.d_g_back {\r\n  padding: 20px 20px 20px 20px;\r\n}\r\n\r\n.d_g_container {\r\n}\r\n\r\n.d_g_text {\r\n  width: 303px;\r\n  margin: auto;\r\n  margin-top: calc(-1 * (100% - 265px));\r\n  background-color: #fff;\r\n  padding: 10px;\r\n  border-radius: 5px;\r\n  font-size: 10px;\r\n  opacity: 0.7;\r\n  text-align: center;\r\n}\r\n", ""]);
 
 	// exports
 
@@ -414,533 +414,555 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	module.exports = {
-	    props: {
-	        mod: [Number, String],
-	        field: String,
-	        equipment: [Array, Object],
-	        list: [Object, Array],
-	        see: [Object, Array]
+	  props: {
+	    mod: [Number, String],
+	    field: String,
+	    equipment: [Array, Object],
+	    list: [Object, Array],
+	    see: [Object, Array]
+	  },
+	  data: function data() {
+	    return {
+	      photo_wi: "375px",
+	      see_car_info: {
+	        text: "",
+	        img: ""
+	      },
+	      d_galery: {
+	        list: [],
+	        show: false,
+	        index: 0
+	      },
+	      damage_car_img: [],
+	      show_car_info: false,
+	      block: {
+	        def: {},
+	        morda_top: {},
+	        fara_top_left: {},
+	        fara_top_right: {},
+	        kapot: {},
+	        lobash_top: {},
+	        top: {},
+	        lobash_bottom: {},
+	        bagaj: {},
+	        polosa_bottom: {},
+	        morda_bottom: {},
+	        fara_bottom_left: {},
+	        fara_bottom_right: {},
+	        guba_bottom: {},
+	        krilo_left_top: {},
+	        koleso_left_top: {},
+	        stoika_left_top: {},
+	        steklo_left_top: {},
+	        dver_left_top: {},
+	        zerkalo_left: {},
+	        porog_left: {},
+	        stoika_left: {},
+	        steklo_left_bottom: {},
+	        dver_left_bottom: {},
+	        stoika_left_bottom: {},
+	        krilo_left_bottom: {},
+	        koleso_left_bottom: {},
+	        krilo_right_top: {},
+	        koleso_right_top: {},
+	        stoika_right_top: {},
+	        steklo_right_top: {},
+	        dver_right_top: {},
+	        zerkalo_right: {},
+	        stoika_right: {},
+	        porog_right: {},
+	        steklo_right_bottom: {},
+	        dver_right_bottom: {},
+	        stoika_right_bottom: {},
+	        krilo_right_bottom: {},
+	        koleso_right_bottom: {}
+	      },
+	      block_name: {
+	        def: "Стандарт",
+	        morda_top: "Передняя часть",
+	        fara_top_left: "Передняя левая фара",
+	        fara_top_right: "Передняя правая фара",
+	        kapot: "Капот",
+	        lobash_top: "Лобовое переднее",
+	        top: "Крыша",
+	        lobash_bottom: "Лобовое заднее",
+	        bagaj: "Багажник",
+	        polosa_bottom: "",
+	        morda_bottom: "Задняя часть",
+	        fara_bottom_left: "Задняя левая фара",
+	        fara_bottom_right: "Задняя правая фара",
+	        guba_bottom: "",
+	        krilo_left_top: "Переднее левое крыло",
+	        koleso_left_top: "Переднее левое колесо",
+	        stoika_left_top: "Передняя левая стойка",
+	        steklo_left_top: "Переднее левое стекло",
+	        dver_left_top: "Передняя левая дверь",
+	        zerkalo_left: "Левое зеркало",
+	        porog_left: "Порог левый",
+	        stoika_left: "Левая стойка",
+	        steklo_left_bottom: "Заднее левое стекло",
+	        dver_left_bottom: "Задняя левая дверь",
+	        stoika_left_bottom: "Задняя левая стойка",
+	        krilo_left_bottom: "Заднее крыло",
+	        koleso_left_bottom: "Заднее левое колесо",
+	        krilo_right_top: "Переднее правое крыло",
+	        koleso_right_top: "Правое переднее колесо",
+	        stoika_right_top: "Правая передняя стойка",
+	        steklo_right_top: "Правое переднее стекло",
+	        dver_right_top: "Правая передняя дверь",
+	        zerkalo_right: "Правое зеркало",
+	        stoika_right: "Правая стройка",
+	        porog_right: "Порог правый",
+	        steklo_right_bottom: "Правое заднее стекло",
+	        dver_right_bottom: "Правая задняя дверь",
+	        stoika_right_bottom: "Правая задняя стойка",
+	        krilo_right_bottom: "Правое заднее крыло",
+	        koleso_right_bottom: "Правое заднее колесо"
+	      },
+	      defcar: {
+	        prefix: "",
+	        name: "",
+	        comment: "",
+	        type: 0,
+	        img: ""
+	      },
+	      use_element_car: "def",
+	      show_menu_car: false,
+	      pic: "#",
+	      iphoto: 1,
+	      show_compl: false,
+	      mode: this.mod,
+	      config_top: [{
+	        name: "Основная информация",
+	        list: [{
+	          name: "Год выпуска",
+	          field: ["year"]
+	        }, {
+	          name: "Цвет",
+	          field: ["color"]
+	        }, {
+	          name: "Кузов",
+	          field: ["body"]
+	        }, {
+	          name: "Модификация",
+	          field: ["size_engine", "type_engine", "power"]
+	        }, {
+	          name: "Руль",
+	          field: ["type_wheel"]
+	        }, {
+	          name: "Коробка",
+	          field: ["type_transmission"]
+	        }, {
+	          name: "Привод",
+	          field: ["type_drive"]
+	        }, {
+	          name: "Салон",
+	          field: ["type_interior"]
+	        }, {
+	          name: "Цвет салон",
+	          field: ["color_salon"]
+	        }, {
+	          name: "Пробег",
+	          field: ["range"]
+	        }]
+	      }, {
+	        name: "Данные по ПТС",
+	        list: [{
+	          name: "Тип ПТС",
+	          field: ["type_pts"]
+	        }, {
+	          name: "Номер ПТС",
+	          field: ["pts_number"]
+	        }, {
+	          name: "Дата выдачи ПТС",
+	          field: ["date_pts"]
+	        }, {
+	          name: "Кол-во хозяев по ПТС",
+	          field: ["count_owner"]
+	        }, {
+	          name: "Свободных мест в ПТС",
+	          field: ["free_space"]
+	        }, {
+	          name: "Номер СТС",
+	          field: ["sts_number"]
+	        }, {
+	          name: "Дата выдачи СТС",
+	          field: ["date_sts"]
+	        }, {
+	          name: "VIN",
+	          field: ["vin"]
+	        }]
+	      }, {
+	        name: "Дополнительно",
+	        list: [{
+	          name: "Сервисная книжка",
+	          field: ["service_book"]
+	        }, {
+	          name: "На гарантии",
+	          field: ["guarantee"]
+	        }, {
+	          name: "Продавец",
+	          field: ["where_purchased"]
+	        }, {
+	          name: "Колличество ключей",
+	          field: ["count_keys"]
+	        }, {
+	          name: "Шины",
+	          field: ["tires"]
+	        }, {
+	          name: "Размер покрышек",
+	          field: ["size_tires"]
+	        }, {
+	          name: "Второй комплект колес",
+	          field: ["second_tires"]
+	        }, {
+	          name: "Оформлен на Ю.Л.",
+	          field: ["legal_entity"]
+	        }, {
+	          name: "Ошибки ЭБУ",
+	          field: ["errors"]
+	        }, {
+	          name: "Спидометр",
+	          field: ["speedometer"]
+	        }]
+	      }]
+	    };
+	  },
+	  created: function created() {},
+	  computed: {
+	    count_photo: function count_photo() {
+	      return this.list.photo_list.length;
 	    },
-	    data: function data() {
-	        return {
-	            photo_wi: '375px',
-	            see_car_info: {
-	                text: "",
-	                img: ""
-	            },
-	            d_galery: {
-	                list: [],
-	                show: false,
-	                index: 0
-	            },
-	            damage_car_img: [],
-	            show_car_info: false,
-	            block: {
-	                def: {},
-	                morda_top: {},
-	                fara_top_left: {},
-	                fara_top_right: {},
-	                kapot: {},
-	                lobash_top: {},
-	                top: {},
-	                lobash_bottom: {},
-	                bagaj: {},
-	                polosa_bottom: {},
-	                morda_bottom: {},
-	                fara_bottom_left: {},
-	                fara_bottom_right: {},
-	                guba_bottom: {},
-	                krilo_left_top: {},
-	                koleso_left_top: {},
-	                stoika_left_top: {},
-	                steklo_left_top: {},
-	                dver_left_top: {},
-	                zerkalo_left: {},
-	                porog_left: {},
-	                stoika_left: {},
-	                steklo_left_bottom: {},
-	                dver_left_bottom: {},
-	                stoika_left_bottom: {},
-	                krilo_left_bottom: {},
-	                koleso_left_bottom: {},
-	                krilo_right_top: {},
-	                koleso_right_top: {},
-	                stoika_right_top: {},
-	                steklo_right_top: {},
-	                dver_right_top: {},
-	                zerkalo_right: {},
-	                stoika_right: {},
-	                porog_right: {},
-	                steklo_right_bottom: {},
-	                dver_right_bottom: {},
-	                stoika_right_bottom: {},
-	                krilo_right_bottom: {},
-	                koleso_right_bottom: {}
-	            },
-	            block_name: {
-	                def: "Стандарт",
-	                morda_top: "Передняя часть",
-	                fara_top_left: "Передняя левая фара",
-	                fara_top_right: "Передняя правая фара",
-	                kapot: "Капот",
-	                lobash_top: "Лобовое переднее",
-	                top: "Крыша",
-	                lobash_bottom: "Лобовое заднее",
-	                bagaj: "Багажник",
-	                polosa_bottom: "",
-	                morda_bottom: "Задняя часть",
-	                fara_bottom_left: "Задняя левая фара",
-	                fara_bottom_right: "Задняя правая фара",
-	                guba_bottom: "",
-	                krilo_left_top: "Переднее левое крыло",
-	                koleso_left_top: "Переднее левое колесо",
-	                stoika_left_top: "Передняя левая стойка",
-	                steklo_left_top: "Переднее левое стекло",
-	                dver_left_top: "Передняя левая дверь",
-	                zerkalo_left: "Левое зеркало",
-	                porog_left: "Порог левый",
-	                stoika_left: "Левая стойка",
-	                steklo_left_bottom: "Заднее левое стекло",
-	                dver_left_bottom: "Задняя левая дверь",
-	                stoika_left_bottom: "Задняя левая стойка",
-	                krilo_left_bottom: "Заднее крыло",
-	                koleso_left_bottom: "Заднее левое колесо",
-	                krilo_right_top: "Переднее правое крыло",
-	                koleso_right_top: "Правое переднее колесо",
-	                stoika_right_top: "Правая передняя стойка",
-	                steklo_right_top: "Правое переднее стекло",
-	                dver_right_top: "Правая передняя дверь",
-	                zerkalo_right: "Правое зеркало",
-	                stoika_right: "Правая стройка",
-	                porog_right: "Порог правый",
-	                steklo_right_bottom: "Правое заднее стекло",
-	                dver_right_bottom: "Правая задняя дверь",
-	                stoika_right_bottom: "Правая задняя стойка",
-	                krilo_right_bottom: "Правое заднее крыло",
-	                koleso_right_bottom: "Правое заднее колесо"
-	            },
-	            defcar: {
-	                prefix: "",
-	                name: "",
-	                comment: "",
-	                type: 0,
-	                img: ""
-	            },
-	            use_element_car: "def",
-	            show_menu_car: false,
-	            pic: "#",
-	            iphoto: 1,
-	            show_compl: false,
-	            mode: this.mod,
-	            config_top: [{
-	                name: "Основная информация",
-	                list: [{
-	                    name: "Год выпуска",
-	                    field: ["year"]
-	                }, {
-	                    name: "Цвет",
-	                    field: ["color"]
-	                }, {
-	                    name: "Кузов",
-	                    field: ["body"]
-	                }, {
-	                    name: "Модификация",
-	                    field: ["size_engine", "type_engine", "power"]
-	                }, {
-	                    name: "Руль",
-	                    field: ["type_wheel"]
-	                }, {
-	                    name: "Коробка",
-	                    field: ["type_transmission"]
-	                }, {
-	                    name: "Привод",
-	                    field: ["type_drive"]
-	                }, {
-	                    name: "Салон",
-	                    field: ["type_interior"]
-	                }, {
-	                    name: "Цвет салон",
-	                    field: ["color_salon"]
-	                }, {
-	                    name: "Пробег",
-	                    field: ["range"]
-	                }]
-	            }, {
-	                name: "Данные по ПТС",
-	                list: [{
-	                    name: "Тип ПТС",
-	                    field: ["type_pts"]
-	                }, {
-	                    name: "Номер ПТС",
-	                    field: ["pts_number"]
-	                }, {
-	                    name: "Дата выдачи ПТС",
-	                    field: ["date_pts"]
-	                }, {
-	                    name: "Кол-во хозяев по ПТС",
-	                    field: ["count_owner"]
-	                }, {
-	                    name: "Свободных мест в ПТС",
-	                    field: ["free_space"]
-	                }, {
-	                    name: "Номер СТС",
-	                    field: ["sts_number"]
-	                }, {
-	                    name: "Дата выдачи СТС",
-	                    field: ["date_sts"]
-	                }]
-	            }, {
-	                name: "Дополнительно",
-	                list: [{
-	                    name: "Сервисная книжка",
-	                    field: ["service_book"]
-	                }, {
-	                    name: "На гарантии",
-	                    field: ["guarantee"]
-	                }, {
-	                    name: "Продавец",
-	                    field: ["where_purchased"]
-	                }, {
-	                    name: "Колличество ключей",
-	                    field: ["count_keys"]
-	                }, {
-	                    name: "Шины",
-	                    field: ["tires"]
-	                }, {
-	                    name: "Размер покрышек",
-	                    field: ["size_tires"]
-	                }, {
-	                    name: "Второй комплект колес",
-	                    field: ["second_tires"]
-	                }, {
-	                    name: "Оформлен на Ю.Л.",
-	                    field: ["legal_entity"]
-	                }, {
-	                    name: "Ошибки ЭБУ",
-	                    field: ["errors"]
-	                }, {
-	                    name: "Спидометр",
-	                    field: ["speedometer"]
-	                }]
-	            }]
-	        };
-	    },
-	    created: function created() {},
-	    computed: {
-	        count_photo: function count_photo() {
-	            return this.list.photo_list.length;
-	        },
-	        get_pic: function get_pic() {
-	            if (this.list.photo_list.length > 0) {
-	                return 'background-image: url("' + this.list.photo_list[this.iphoto - 1].img + '");';
-	            } else {
-	                return 'background-image: url("#");';
-	            }
-	        }
-	    },
-	    methods: {
-	        get_background: function get_background(d) {
-	            return "background-image: url(" + d + ");";
-	        },
-
-	        convert_pl: function convert_pl(d) {
-	            var p = [];
-	            var m = [];
-	            console.log("convert_pl");
-	            console.log(d);
-	            console.log(typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d));
-	            if (!((typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == "object" || (typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == Array)) {
-	                d = [];
-	            }
-
-	            for (var i = 0; i < d.length; i = i + 1) {
-	                if (d[i] != null) {
-	                    if ((0, _keys2.default)(d[i]).length != 0) {
-	                        if (d[i].path == "Плюсы") {
-	                            p.push(d[i].name);
-	                        } else {
-	                            m.push(d[i].name);
-	                        }
-	                    }
-	                }
-	            }
-
-
-	            return [{
-	                name: "Плюсы",
-	                list: p
-	            }, {
-	                name: "Минусы",
-	                list: m
-	            }];
-	        },
-	        convert_pl_v2: function convert_pl_v2(d) {
-	            var typer = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 1;
-
-	            var p = [];
-	            var m = [];
-	            if (!((typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == "object" || (typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == Array)) {
-	                d = [];
-	            }
-
-	            for (var i = 0; i < d.length; i = i + 1) {
-	                if (d[i] != null) {
-	                    if ((0, _keys2.default)(d[i]).length != 0) {
-	                        if (d[i].path == "Плюсы") {
-	                            p.push(d[i].name);
-	                        } else {
-	                            m.push(d[i].name);
-	                        }
-	                    }
-	                }
-	            }
-
-	            return typer == 1 ? p : m;
-	        },
-	        convert_tester: function convert_tester(d) {
-	            var l = [];
-	            var t = [];
-	            var r = [];
-	            var s = -1;
-	            var config_name_img = {
-	                name: "",
-	                img: ""
-	            };
-	            if ((typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == "object" || (typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == Array) {
-	                for (var i = 0; i < d.length; i = i + 1) {
-	                    if (d[i] != null) {
-	                        if ((0, _keys2.default)(d[i]).length != 0) {
-	                            s = t.indexOf(d[i].path);
-	                            if (s === -1) {
-	                                t.push(d[i].path);
-	                                s = t.length - 1;
-	                            }
-	                            if (l[s] == undefined) {
-	                                l[s] = [];
-	                            }
-	                            config_name_img = this.get_name_img_procent_test(d[i].id, d[i].val.id, d[i].name);
-	                            l[s].push({
-	                                name: config_name_img.name + d[i].name,
-	                                status: d[i].val.id,
-	                                img: config_name_img.img
-	                            });
-	                        }
-	                    }
-	                }
-	            }
-
-	            for (i in t) {
-	                r.push({
-	                    name: t[i],
-	                    list: l[i]
-	                });
-	            }
-
-	            return r;
-	        },
-	        get_name_img_procent_test: function get_name_img_procent_test(id, imgid, name) {
-	            var ename = this.get_name_procent_test(id);
-	            var eimg = "";
-	            if (ename == "") {
-	                eimg = imgid == 1 ? "ok" : "err";
-	            } else {
-	                if (parseInt(name) > 20) {
-	                    eimg = "ok";
-	                } else {
-	                    eimg = "err";
-	                }
-	            }
-
-	            return {
-	                name: ename,
-	                img: eimg
-	            };
-	        },
-	        use_procent: function use_procent(q) {
-	            for (var i = 0; i < 100; i = i + 5) {
-	                if (q == i + "%") {
-	                    return true;
-	                }
-	            }
-
-	            return false;
-	        },
-	        get_name_procent_test: function get_name_procent_test(q) {
-	            switch (q) {
-	                case "1144":
-	                    return "Остаток шин: ";
-	                case "1143":
-	                    return "Остаток ЗТД: ";
-	                case "1142":
-	                    return "Остаток ЗТК: ";
-	                case "1141":
-	                    return "Остаток ПТД: ";
-	                case "1140":
-	                    return "Остаток ПТК: ";
-	                default:
-	                    return "";
-	            }
-
-	            return "";
-	        },
-	        convert_checker: function convert_checker(data) {
-	            var list = [];
-
-	            if ((typeof data === "undefined" ? "undefined" : (0, _typeof3.default)(data)) == "object" || (typeof data === "undefined" ? "undefined" : (0, _typeof3.default)(data)) == Array) {
-	                for (var i = 0; i < data.length; i = i + 1) {
-	                    if (data[i] != null) {
-	                        if ((0, _keys2.default)(data[i]).length != 0 && data[i] != "" && data[i] != null && data[i] !== undefined) {
-	                            list.push(data[i]);
-	                        }
-	                    }
-	                }
-	            }
-
-	            return list;
-	        },
-	        get_data_table: function get_data_table(n) {
-	            var c = "";
-
-	            if (n.length > 0) {
-	                if ((typeof n === "undefined" ? "undefined" : (0, _typeof3.default)(n)) == Array || (typeof n === "undefined" ? "undefined" : (0, _typeof3.default)(n)) == "object") {
-	                    console.log("length");
-	                    console.log(n.length);
-	                    for (var i = 0; i < n.length; i++) {
-	                        if (n[i] == "date_end" || n[i] == "date_pts" || n[i] == "date_sts") {
-	                            if (new Date(this.list[n[i]]) != "Invalid Date") {
-	                                var date = new Date(this.list[n[i]]);
-
-	                                c = c + (date.getDate() < 10 ? "0" : "") + date.getDate() + "." + (date.getMonth() + 1 < 10 ? "0" : "") + (date.getMonth() + 1) + "." + date.getFullYear() + " ";
-	                            } else {}
-	                        } else {
-	                            c = c + this.vi(this.list[n[i]]) + (n[i] == "power" ? "л.с." : "") + (n.length > 1 ? "/" : "");
-	                        }
-	                    }
-	                } else {
-	                    c = c + this.vi(this.list[n]) + (n.length > 1 ? "/" : "");
-	                }
-	            }
-
-	            if (c.replace(/\s+/g, "").replace(/\//g, "") == "") {
-	                return "";
-	            }
-	            if (c.toString().slice(-1) == "/") {
-	                return c.toString().slice(0, -1);
-	            }
-
-	            return c;
-	        },
-	        swype_pic: function swype_pic(m) {
-	            if (m == "+") {
-	                if (this.iphoto + 1 <= this.list.photo_list.length) {
-	                    this.iphoto = this.iphoto + 1;
-	                }
-	            } else {
-	                if (this.iphoto - 1 > 0) {
-	                    this.iphoto = this.iphoto - 1;
-	                }
-	            }
-
-	            return;
-	        },
-	        vi: function vi(t) {
-	            if (this.mod == 1) {
-	                if (t != "") {
-	                    if ((typeof t === "undefined" ? "undefined" : (0, _typeof3.default)(t)) === "object") {
-	                        if (t["name"] == undefined) {
-	                            return t;
-	                        }
-	                        return t["name"];
-	                    }
-	                }
-	            }
-
-	            if (t == "" || t == undefined) {
-	                return "";
-	            }
-
-	            return t;
-	        },
-	        emp: function emp() {
-	            var size = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 25;
-
-	            var e = '<span class="point-animation">';
-	            for (var i = 0; i < size; i++) {
-	                e = e + "<span>&nbsp;</span>";
-	            }
-	            e = e + "</span>";
-
-	            return e;
-	        },
-
-	        convert_date: function convert_date(d) {
-	            d = new Date(d);
-	            if (d != "Invalid Date") {
-	                return d.getDate() + "." + (d.getMonth() + 1) + "." + d.getFullYear();
-	            }
-
-	            return this.emp();
-	        },
-
-	        get_color_car: function get_color_car(t) {
-	            if (t == 2) {
-	                return "yelow/";
-	            }
-	            if (t == 1 || t == 3 || t == 4) {
-	                return "red/";
-	            }
-
-	            return "";
-	        },
-	        point: function point(t) {
-	            if (this.list.block[t].type != 0) {
-	                this.show_car_info = true;
-	                this.see_car_info.text = this.list.block[t].comment;
-	                this.see_car_info.img = this.list.block[t].img;
-	            }
-	        },
-	        show_car: function show_car() {
-	            if ((0, _typeof3.default)(this.list["block"]) == "object" || (0, _typeof3.default)(this.list["block"]) == Array) {
-	                return true;
-	            }
-
-	            return false;
-	        },
-	        pic_damage_v2: function pic_damage_v2() {
-	            for (var key in this.list.block) {
-	                if (this.list.block[key].img.length > 0) {
-	                    return true;
-	                }
-	                console.log(this.list.block[key].img);
-	            }
-
-	            return false;
-	        },
-	        show_galery: function show_galery(list, k) {
-	            this.d_galery.list = list;
-	            this.d_galery.show = true;
-	        },
-	        close_galery: function close_galery() {
-	            this.d_galery.list = [];
-	            this.d_galery.show = false;
-	        }
-	    },
-	    watch: {
-	        'd_galery.show': function d_galeryShow(t) {
-	            console.log('eeee');
-	            console.log(t);
-	            if (t) {
-	                var vm = this;
-	                var d_g_c = document.querySelector('body').offsetWidth;
-	                if (d_g_c > 380) {
-	                    setTimeout(function () {
-	                        vm.photo_wi = d_g_c - 25 + 'px';
-	                    }, 10);
-	                }
-	                console.log('-->>' + d_g_c);
-	            }
-	        }
+	    get_pic: function get_pic() {
+	      if (this.list.photo_list.length > 0) {
+	        return 'background-image: url("' + this.list.photo_list[this.iphoto - 1].img + '");';
+	      } else {
+	        return 'background-image: url("#");';
+	      }
 	    }
+	  },
+	  methods: {
+	    get_background: function get_background(d) {
+	      return "background-image: url(" + d + ");";
+	    },
+
+	    convert_pl: function convert_pl(d) {
+	      var p = [];
+	      var m = [];
+	      console.log("convert_pl");
+	      console.log(d);
+	      console.log(typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d));
+	      if (!((typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == "object" || (typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == Array)) {
+	        d = [];
+	      }
+
+	      for (var i = 0; i < d.length; i = i + 1) {
+	        if (d[i] != null) {
+	          if ((0, _keys2.default)(d[i]).length != 0) {
+	            if (d[i].path == "Плюсы") {
+	              p.push(d[i].name);
+	            } else {
+	              m.push(d[i].name);
+	            }
+	          }
+	        }
+	      }
+
+
+	      return [{
+	        name: "Плюсы",
+	        list: p
+	      }, {
+	        name: "Минусы",
+	        list: m
+	      }];
+	    },
+	    convert_pl_v2: function convert_pl_v2(d) {
+	      var typer = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 1;
+
+	      var p = [];
+	      var m = [];
+	      if (!((typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == "object" || (typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == Array)) {
+	        d = [];
+	      }
+
+	      for (var i = 0; i < d.length; i = i + 1) {
+	        if (d[i] != null) {
+	          if ((0, _keys2.default)(d[i]).length != 0) {
+	            if (d[i].path == "Плюсы") {
+	              p.push(d[i].name);
+	            } else {
+	              m.push(d[i].name);
+	            }
+	          }
+	        }
+	      }
+
+	      return typer == 1 ? p : m;
+	    },
+	    convert_tester: function convert_tester(d) {
+	      var l = [];
+	      var t = [];
+	      var r = [];
+	      var s = -1;
+	      var config_name_img = {
+	        name: "",
+	        img: ""
+	      };
+	      if ((typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == "object" || (typeof d === "undefined" ? "undefined" : (0, _typeof3.default)(d)) == Array) {
+	        for (var i = 0; i < d.length; i = i + 1) {
+	          if (d[i] != null) {
+	            if ((0, _keys2.default)(d[i]).length != 0) {
+	              s = t.indexOf(d[i].path);
+	              if (s === -1) {
+	                t.push(d[i].path);
+	                s = t.length - 1;
+	              }
+	              if (l[s] == undefined) {
+	                l[s] = [];
+	              }
+	              config_name_img = this.get_name_img_procent_test(d[i].id, d[i].val.id, d[i].name);
+	              l[s].push({
+	                name: config_name_img.name + d[i].name,
+	                status: d[i].val.id,
+	                img: config_name_img.img
+	              });
+	            }
+	          }
+	        }
+	      }
+
+	      for (i in t) {
+	        r.push({
+	          name: t[i],
+	          list: l[i]
+	        });
+	      }
+
+	      return r;
+	    },
+	    get_name_img_procent_test: function get_name_img_procent_test(id, imgid, name) {
+	      var ename = this.get_name_procent_test(id);
+	      var eimg = "";
+	      if (ename == "") {
+	        eimg = imgid == 1 ? "ok" : "err";
+	      } else {
+	        if (parseInt(name) > 20) {
+	          eimg = "ok";
+	        } else {
+	          eimg = "err";
+	        }
+	      }
+
+	      return {
+	        name: ename,
+	        img: eimg
+	      };
+	    },
+	    use_procent: function use_procent(q) {
+	      for (var i = 0; i < 100; i = i + 5) {
+	        if (q == i + "%") {
+	          return true;
+	        }
+	      }
+
+	      return false;
+	    },
+	    get_name_procent_test: function get_name_procent_test(q) {
+	      switch (q) {
+	        case "1144":
+	          return "Остаток шин: ";
+	        case "1143":
+	          return "Остаток ЗТД: ";
+	        case "1142":
+	          return "Остаток ЗТК: ";
+	        case "1141":
+	          return "Остаток ПТД: ";
+	        case "1140":
+	          return "Остаток ПТК: ";
+	        default:
+	          return "";
+	      }
+
+	      return "";
+	    },
+	    convert_checker: function convert_checker(data) {
+	      var list = [];
+
+	      if ((typeof data === "undefined" ? "undefined" : (0, _typeof3.default)(data)) == "object" || (typeof data === "undefined" ? "undefined" : (0, _typeof3.default)(data)) == Array) {
+	        for (var i = 0; i < data.length; i = i + 1) {
+	          if (data[i] != null) {
+	            if ((0, _keys2.default)(data[i]).length != 0 && data[i] != "" && data[i] != null && data[i] !== undefined) {
+	              list.push(data[i]);
+	            }
+	          }
+	        }
+	      }
+
+	      return list;
+	    },
+	    get_data_table: function get_data_table(n) {
+	      var c = "";
+
+	      if (n.length > 0) {
+	        if ((typeof n === "undefined" ? "undefined" : (0, _typeof3.default)(n)) == Array || (typeof n === "undefined" ? "undefined" : (0, _typeof3.default)(n)) == "object") {
+	          console.log("length");
+	          console.log(n.length);
+	          for (var i = 0; i < n.length; i++) {
+	            if (n[i] == "date_end" || n[i] == "date_pts" || n[i] == "date_sts") {
+	              if (new Date(this.list[n[i]]) != "Invalid Date") {
+	                var date = new Date(this.list[n[i]]);
+
+	                c = c + (date.getDate() < 10 ? "0" : "") + date.getDate() + "." + (date.getMonth() + 1 < 10 ? "0" : "") + (date.getMonth() + 1) + "." + date.getFullYear() + " ";
+	              } else {}
+	            } else {
+	              c = c + this.vi(this.list[n[i]]) + (n[i] == "power" ? "л.с." : "") + (n.length > 1 && this.vi(this.list[n[i]]) != "" ? "/" : "");
+	            }
+	          }
+	        } else {
+	          c = c + this.vi(this.list[n]) + (n.length > 1 ? "/" : "");
+	        }
+	      }
+
+	      if (c.replace(/\s+/g, "").replace(/\//g, "") == "") {
+	        return "";
+	      }
+	      if (c.toString().slice(-1) == "/") {
+	        return c.toString().slice(0, -1);
+	      }
+
+	      return c;
+	    },
+	    swype_pic: function swype_pic(m) {
+	      if (m == "+") {
+	        if (this.iphoto + 1 <= this.list.photo_list.length) {
+	          this.iphoto = this.iphoto + 1;
+	        }
+	      } else {
+	        if (this.iphoto - 1 > 0) {
+	          this.iphoto = this.iphoto - 1;
+	        }
+	      }
+
+	      return;
+	    },
+	    vi: function vi(t) {
+	      if (this.mod == 1) {
+	        if (t != "") {
+	          if ((typeof t === "undefined" ? "undefined" : (0, _typeof3.default)(t)) === "object") {
+	            if (t["name"] == undefined) {
+	              return t;
+	            }
+	            return t["name"];
+	          }
+	        }
+	      }
+
+	      if (t == "" || t == undefined) {
+	        return "";
+	      }
+
+	      return t;
+	    },
+	    emp: function emp() {
+	      var size = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 25;
+
+	      var e = '<span class="point-animation">';
+	      for (var i = 0; i < size; i++) {
+	        e = e + "<span>&nbsp;</span>";
+	      }
+	      e = e + "</span>";
+
+	      return e;
+	    },
+
+	    convert_date: function convert_date(d) {
+	      d = new Date(d);
+	      if (d != "Invalid Date") {
+	        return d.getDate() + "." + (d.getMonth() + 1) + "." + d.getFullYear();
+	      }
+
+	      return this.emp();
+	    },
+
+	    get_color_car: function get_color_car(t) {
+	      if (t == 2) {
+	        return "yelow/";
+	      }
+	      if (t == 1 || t == 3 || t == 4) {
+	        return "red/";
+	      }
+
+	      return "";
+	    },
+	    point: function point(t) {
+	      if (this.list.block[t].type != 0) {
+	        this.show_galery([{ img: this.list.block[t].img, comment: this.list.block[t].comment }], 1);
+	      }
+	    },
+	    show_car: function show_car() {
+	      if ((0, _typeof3.default)(this.list["block"]) == "object" || (0, _typeof3.default)(this.list["block"]) == Array) {
+	        return true;
+	      }
+
+	      return false;
+	    },
+	    pic_damage_v2: function pic_damage_v2() {
+	      for (var key in this.list.block) {
+	        if (this.list.block[key].img.length > 0) {
+	          return true;
+	        }
+	        console.log(this.list.block[key].img);
+	      }
+
+	      return false;
+	    },
+	    show_galery: function show_galery(list, k) {
+	      this.d_galery.list = list;
+	      this.d_galery.show = true;
+	    },
+	    close_galery: function close_galery() {
+	      this.d_galery.list = [];
+	      this.d_galery.show = false;
+	    },
+	    check_emp_list: function check_emp_list(l) {
+	      for (var i in l) {
+	        if (this.get_data_table(l[i].field) != "") {
+	          return true;
+	        }
+	      }
+
+	      return false;
+	    },
+
+	    check_len_obj: function check_len_obj(i) {
+	      if (this.list.hasOwnProperty(i)) {
+	        return this.list[i].length;
+	      } else {
+	        return 0;
+	      }
+	    },
+	    check_len_obj_v2: function check_len_obj_v2(o, i) {
+	      if (o.hasOwnProperty(i)) {
+	        return o[i].length;
+	      } else {
+	        return 0;
+	      }
+	    }
+	  },
+	  watch: {
+	    "d_galery.show": function d_galeryShow(t) {
+	      if (t) {
+	        var vm = this;
+	        var d_g_c = document.querySelector("body").offsetWidth;
+	        if (d_g_c > 380) {
+	          setTimeout(function () {
+	            vm.photo_wi = d_g_c - 25 + "px";
+	          }, 10);
+	        }
+	      }
+	    }
+	  }
 	};
 
 /***/ },
@@ -2350,7 +2372,7 @@
 /* 78 */
 /***/ function(module, exports) {
 
-	module.exports = "\r\n<div class=\"dlist_main\">\r\n    <div class=\"\">\r\n        <!-- header -->\r\n        <div class=\"d_container d_header\">\r\n            <h2>Диагностический лист</h2>\r\n            <!-- марка модель генерация год-->\r\n            <p v-html=\"\r\n            vi(list.brand) +\r\n            ' ' +\r\n            vi(list.model) +\r\n            ' ' +\r\n            vi(list.generation) +\r\n            ' ' +\r\n            vi(list.year)\r\n          \">\r\n                <span class=\"point-animation\">\r\n                    <span :key=\"k\" v-for=\"(v, k) in 25\">&nbsp;</span>\r\n                </span>\r\n            </p>\r\n            <!-- локация осмотра -->\r\n            <span v-html=\"list.location_street\">\r\n                <span class=\"point-animation\">\r\n                    <span :key=\"k\" v-for=\"(v, k) in 25\">&nbsp;</span>\r\n                </span>\r\n            </span>\r\n        </div>\r\n        <!-- gallery -->\r\n        <div class=\"d_container_g d_gallery\" v-if=\"list.photo_list.length > 0\">\r\n            <div class=\"d_informer_photo\">\r\n                <div class=\"e_pic_v1\" :key=\"kk\" v-for=\"(i, kk) in list.photo_list\" :style=\"get_background(i.img)\" @click=\"show_galery(list.photo_list, kk)\"></div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- -->\r\n\r\n        <div class=\"d_container d_block_expert_time\">\r\n            <div class=\"d_expert\" v-html=\"'Эксперт: ' + (list.expert == '' ? '-' : list.expert)\">\r\n                Эксперт: Роман Рыбкин\r\n            </div>\r\n            <div class=\"d_time\" v-html=\"\r\n            mod == 1 && list.created == '' ? emp() : convert_date(list.created)\r\n          \">\r\n                00:00 01.01.2020\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"dlist_hr\">\r\n            <hr />\r\n        </div>\r\n        <!-- -->\r\n        <!-- Стоимость -->\r\n        <div class=\"d_container dlist_table\" v-if=\"list.price != '' || list.price_sale != ''\">\r\n            <div class=\"dist_table_header\">Стоимость</div>\r\n            <div class=\"dlist_table_container\" v-if=\"list.price != ''\">\r\n                <div class=\"dlist_table_block_v1\">\r\n                    <span class=\"dlist_informer_gray_text\">До торга</span>\r\n                </div>\r\n                <div class=\"dlist_table_block_v1\">\r\n                    <span class=\"dlist_informer_black_text\" v-html=\"list.price + ' ₽'\">2020\r\n                    </span>\r\n                </div>\r\n            </div>\r\n            <div class=\"dlist_table_container\" v-if=\"list.price_sale != ''\">\r\n                <div class=\"dlist_table_block_v1\">\r\n                    <span class=\"dlist_informer_gray_text\">После торга</span>\r\n                </div>\r\n                <div class=\"dlist_table_block_v1\">\r\n                    <span class=\"dlist_informer_black_text\" v-html=\"list.price_sale + ' ₽'\">2020\r\n                    </span>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"d_container dlist_table\" :key=\"kct\" v-for=\"(vct, kct) in config_top\">\r\n            <div class=\"dist_table_header\" v-html=\"vct.name\">\r\n                Основная информация\r\n            </div>\r\n            <div class=\"dlist_table_container\" :key=\"kctl\" v-for=\"(vctl, kctl) in vct.list\">\r\n                <div class=\"dlist_table_block_v1\" v-if=\"get_data_table(vctl.field) != ''\">\r\n                    <span class=\"dlist_informer_gray_text\" v-html=\"vctl.name\">Год выпуска</span>\r\n                </div>\r\n                <div class=\"dlist_table_block_v1\" v-if=\"get_data_table(vctl.field) != ''\">\r\n                    <span class=\"dlist_informer_black_text\" v-html=\"get_data_table(vctl.field)\">2020\r\n                    </span>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <!-- -->\r\n        <!--<div class=\"d_container d_position_btn\">\r\n            <div class=\"btn_gray\">Смотреть все характеристики авто</div>\r\n        </div>-->\r\n        <!-- -->\r\n\r\n        <div class=\"dlist_hr_v2\">\r\n            <hr />\r\n        </div>\r\n\r\n        <!--\r\n        <div class=\"d_container dlist_table\">\r\n            <div class=\"dist_table_header\">Отчет о прверке по VIN</div>\r\n\r\n            <div class=\"dlist_table_container\">\r\n                <div class=\"dlist_table_block_v2_l\">\r\n                    <img :src=\"'./img/dlist/ok.svg'\" alt=\"ok\" />\r\n                </div>\r\n                <div class=\"dlist_table_block_v2_r\">\r\n                    <span class=\"dlist_informer_black_text\">3 владельца по птс</span>\r\n                </div>\r\n            </div>\r\n            <div class=\"dlist_table_container\">\r\n                <div class=\"dlist_table_block_v2_l\">\r\n                    <img :src=\"'./img/dlist/ok.svg'\" alt=\"ok\" />\r\n                </div>\r\n                <div class=\"dlist_table_block_v2_r\">\r\n                    <span class=\"dlist_informer_black_text\">3 владельца по птс</span>\r\n                </div>\r\n            </div>\r\n            <div class=\"dlist_table_container\">\r\n                <div class=\"dlist_table_block_v2_l\">\r\n                    <img :src=\"'./img/dlist/err.svg'\" alt=\"err\" />\r\n                </div>\r\n                <div class=\"dlist_table_block_v2_r\">\r\n                    <span class=\"dlist_informer_black_text\">Есть юридические ограничения</span>\r\n                </div>\r\n            </div>\r\n            <div class=\"dlist_table_container\">\r\n                <div class=\"dlist_table_block_v2_l\">\r\n                    <img :src=\"'./img/dlist/err.svg'\" alt=\"err\" />\r\n                </div>\r\n                <div class=\"dlist_table_block_v2_r\">\r\n                    <span class=\"dlist_informer_black_text\">Есть юридические ограничения</span>\r\n                </div>\r\n            </div>\r\n            <div class=\"dlist_table_container\">\r\n                <div class=\"dlist_table_block_v2_l\">\r\n                    <img :src=\"'./img/dlist/err.svg'\" alt=\"err\" />\r\n                </div>\r\n                <div class=\"dlist_table_block_v2_r\">\r\n                    <span class=\"dlist_informer_black_text\">Есть юридические ограничения</span>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"d_container d_position_btn\">\r\n            <div class=\"btn_green\">Смотреть полный отчет</div>\r\n        </div>\r\n\r\n        <div class=\"dlist_hr_v2\">\r\n            <hr />\r\n        </div>-->\r\n        <!-- -->\r\n\r\n        <div class=\"d_container d_car\">\r\n            <div class=\"dist_table_header\">Повреждения</div>\r\n            <div class=\"d_inform_car\">\r\n                Нажмите на элемент, чтобы посмотреть повреждение, или воспользуйтесь\r\n                слайдером.\r\n            </div>\r\n            <div class=\"d_car_c_v1\">\r\n                <!-- car rrr-->\r\n                <div class=\"cardemo\" v-if=\"show_car()\">\r\n                    <!--<div class=\"dist-table-header\" style=\"font-size: 25px\">\r\n                        Развертка автомобиля\r\n                    </div>-->\r\n                    <div class=\"view_img\" v-if=\"show_car_info\">\r\n                        <div class=\"view_img_close\">\r\n                            <span @click=\"show_car_info = false\">Закрыть</span>\r\n                        </div>\r\n                        <div class=\"view_img_img\" v-if=\"see_car_info.img != ''\">\r\n                            <img :src=\"see_car_info.img\" alt=\"\" />\r\n                        </div>\r\n                        <div class=\"view_img_text\">\r\n                            <span>{{ see_car_info.text }}</span>\r\n                        </div>\r\n                    </div>\r\n\r\n                    <div class=\"fix-position r-h\">\r\n                        <div class=\"carcar\">\r\n                            <div class=\"car-v\">\r\n                                <div class=\"c-el guba_top\">\r\n                                    <img :src=\"'./img/car/guba1.svg'\" alt=\"car\" />\r\n                                </div>\r\n                                <!-- -->\r\n                                <div class=\"c-el morda_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.morda_top.type) +\r\n                        'morda1.svg'\r\n                      \" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('morda_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el fara_top_left\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.fara_top_left.type) +\r\n                        'fara.svg'\r\n                      \" @click=\"point('fara_top_left')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('fara_top_left')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el fara_top_right\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.fara_top_right.type) +\r\n                        'fara.svg'\r\n                      \" @click=\"point('fara_top_right')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('fara_top_right')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el polosa_top\">\r\n                                    <img :src=\"'./img/car/polosa.svg'\" alt=\"car\" />\r\n                                    <div class=\"\">\r\n                                        <span>+</span>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el kapot\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.kapot.type) +\r\n                        'kapot.svg'\r\n                      \" @click=\"point('kapot')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('kapot')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el lobash_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.lobash_top.type) +\r\n                        'lobash_top.svg'\r\n                      \" @click=\"point('lobash_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('lobash_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n                                <div class=\"c-el top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.top.type) +\r\n                        'top.svg'\r\n                      \" @click=\"point('top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el lobash_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.lobash_bottom.type) +\r\n                        'lobash_bottom.svg'\r\n                      \" @click=\"point('lobash_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('lobash_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el bagaj\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.bagaj.type) +\r\n                        'bagaj.svg'\r\n                      \" @click=\"point('bagaj')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('bagaj')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el polosa_bottom\">\r\n                                    <img :src=\"'./img/car/polosa.svg'\" alt=\"car\" />\r\n                                    <div class=\"\">\r\n                                        <span>+</span>\r\n                                    </div>\r\n                                </div>\r\n                                <!-- -->\r\n                                <div class=\"c-el morda_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.morda_bottom.type) +\r\n                        'morda1.svg'\r\n                      \" @click=\"point('morda_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('morda_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el fara_bottom_left\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.fara_bottom_left.type) +\r\n                        'fara.svg'\r\n                      \" @click=\"point('fara_bottom_left')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('fara_bottom_left')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el fara_bottom_right\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.fara_bottom_right.type) +\r\n                        'fara.svg'\r\n                      \" @click=\"point('fara_bottom_right')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('fara_bottom_right')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <!-- -->\r\n\r\n                                <div class=\"c-el guba_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.guba_bottom.type) +\r\n                        'guba1.svg'\r\n                      \" @click=\"point('guba_bottom')\" alt=\"car\" />\r\n                                    <div class=\"\">\r\n                                        <span>+</span>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el krilo_left_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.krilo_left_top.type) +\r\n                        'krilo_left_top.svg'\r\n                      \" @click=\"point('krilo_left_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('krilo_left_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el koleso_left_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.koleso_left_top.type) +\r\n                        'koleso.svg'\r\n                      \" @click=\"point('koleso_left_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('koleso_left_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el stoika_left_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.stoika_left_top.type) +\r\n                        'stoika_left_top.svg'\r\n                      \" @click=\"point('stoika_left_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('stoika_left_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el steklo_left_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.steklo_left_top.type) +\r\n                        'steklo_left_top.svg'\r\n                      \" @click=\"point('steklo_left_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('steklo_left_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el dver_left_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.dver_left_top.type) +\r\n                        'dver.svg'\r\n                      \" @click=\"point('dver_left_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('dver_left_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el zerkalo_left\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.zerkalo_left.type) +\r\n                        'zerkalo_left.svg'\r\n                      \" @click=\"point('zerkalo_left')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('zerkalo_left')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el porog_left\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.porog_left.type) +\r\n                        'porog_left.svg'\r\n                      \" @click=\"point('porog_left')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('porog_left')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el stoika_left\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.porog_left.type) +\r\n                        'stoika.svg'\r\n                      \" @click=\"point('stoika_left')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('stoika_left')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el steklo_left_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.steklo_left_bottom.type) +\r\n                        'steklo_left_bottom.svg'\r\n                      \" @click=\"point('steklo_left_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('steklo_left_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el dver_left_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.dver_left_bottom.type) +\r\n                        'dver.svg'\r\n                      \" @click=\"point('dver_left_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('dver_left_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el stoika_left_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.stoika_left_bottom.type) +\r\n                        'stoika_left_bottom.svg'\r\n                      \" @click=\"point('stoika_left_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('stoika_left_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el krilo_left_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.krilo_left_bottom.type) +\r\n                        'krilo_left_bottom.svg'\r\n                      \" @click=\"point('krilo_left_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('krilo_left_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el koleso_left_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.koleso_left_bottom.type) +\r\n                        'koleso.svg'\r\n                      \" @click=\"point('koleso_left_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('koleso_left_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n                                <!-- -->\r\n                                <div class=\"c-el krilo_right_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.krilo_right_top.type) +\r\n                        'krilo_right_top.svg'\r\n                      \" @click=\"point('krilo_right_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('krilo_right_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el koleso_right_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.koleso_right_top.type) +\r\n                        'koleso.svg'\r\n                      \" @click=\"point('koleso_right_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('koleso_right_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el stoika_right_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.stoika_right_top.type) +\r\n                        'stoika_right_top.svg'\r\n                      \" @click=\"point('stoika_right_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('stoika_right_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el steklo_right_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.steklo_right_top.type) +\r\n                        'steklo_right_top.svg'\r\n                      \" @click=\"point('steklo_right_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('steklo_right_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el dver_right_top\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.dver_right_top.type) +\r\n                        'dver.svg'\r\n                      \" @click=\"point('dver_right_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('dver_right_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el zerkalo_right\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.zerkalo_right.type) +\r\n                        'zerkalo_left.svg'\r\n                      \" @click=\"point('dver_right_top')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('dver_right_top')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el stoika_right\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.stoika_right.type) +\r\n                        'stoika.svg'\r\n                      \" @click=\"point('stoika_right')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('stoika_right')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el porog_right\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.porog_right.type) +\r\n                        'porog_right.svg'\r\n                      \" @click=\"point('porog_right')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('porog_right')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el steklo_right_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.steklo_right_bottom.type) +\r\n                        'steklo_right_bottom.svg'\r\n                      \" @click=\"point('steklo_right_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('steklo_right_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el dver_right_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.dver_right_bottom.type) +\r\n                        'dver.svg'\r\n                      \" @click=\"point('dver_right_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('dver_right_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el stoika_right_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.stoika_right_bottom.type) +\r\n                        'stoika_right_bottom.svg'\r\n                      \" @click=\"point('stoika_right_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('stoika_right_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el krilo_right_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.krilo_right_bottom.type) +\r\n                        'krilo_right_bottom.svg'\r\n                      \" @click=\"point('krilo_right_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('krilo_right_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n\r\n                                <div class=\"c-el koleso_right_bottom\">\r\n                                    <img :src=\"\r\n                        './img/car/' +\r\n                        get_color_car(list.block.koleso_right_bottom.type) +\r\n                        'koleso.svg'\r\n                      \" @click=\"point('koleso_right_bottom')\" alt=\"car\" />\r\n                                    <div class=\"e-point-hand point\" @click=\"point('koleso_right_bottom')\">\r\n                                        <div class=\"e-point vipoint\">\r\n                                            <span>+</span>\r\n                                        </div>\r\n                                    </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n                <!-- end car rrr-->\r\n            </div>\r\n            <!--\r\n            <div class=\"d_car_config\">\r\n                <img :src=\"'./img/dlist/bl_err_demo.svg'\" style=\"max-width:99%; margin:auto;\" alt=\"demo\" />\r\n            </div>\r\n            -->\r\n            <!-- -->\r\n            <div class=\"d_car_damage_list\" v-if=\"pic_damage_v2()\">\r\n                <div class=\"dist_table_header\">Фотографии повреждений</div>\r\n                <div class=\"d_informer_photo\">\r\n                    <div :key=\"kd\" v-for=\"(vf, kd) in list.block\">\r\n                        <div class=\"e_pic_v1\" v-if=\"vf.img != ''\" @click=\"show_galery(list.block, kd)\" :style=\"'background-image: url(' + vf.img + ');'\"></div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n            <!-- -->\r\n        </div>\r\n        <!-- -->\r\n\r\n        <div class=\"dlist_hr_v2\">\r\n            <hr />\r\n        </div>\r\n        <!-- -->\r\n\r\n        <div class=\"d_container dlist_check_auto\" v-if=\"convert_tester(list.equipment_tests).length != 0\">\r\n            <div class=\"dist_table_header\" style=\"font_size: 25px\">\r\n                Проверка автомобиля\r\n            </div>\r\n            <div class=\"d_inform_car\">\r\n                Проверка производится экспертом перед <br />автомобилем.\r\n            </div>\r\n            <div class=\"dlist_check_point\" :key=\"kt\" v-for=\"(vt, kt) in convert_tester(list.equipment_tests)\">\r\n                <div class=\"dlist_check_title\" v-html=\"vt.name\">Работа акпп/мкпп</div>\r\n                <div class=\"dlist_check_list\" :key=\"kti\" v-for=\"(vti, kti) in vt.list\">\r\n                    <div class=\"dlist_check_status\">\r\n                        <img :src=\"'./img/dlist/' + vti.img + '.svg'\" alt=\"\" />\r\n                    </div>\r\n                    <div class=\"dlist_check_text\" v-html=\"vti.name\">\r\n                        При переключении передач на месте без замечаний\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"dlist_hr_v2\" v-if=\"convert_tester(list.equipment_tests).length != 0\">\r\n            <hr />\r\n        </div>\r\n        <!-- -->\r\n\r\n        <div class=\"d_container dlist_check_auto\" v-if=\"convert_tester(list.equipment_salon_tests).length != 0\">\r\n            <div class=\"dist_table_header\" style=\"font_size: 25px\">\r\n                Проверка салона\r\n            </div>\r\n            <div class=\"d_inform_car\">\r\n                Проверка производится экспертом перед <br />автомобилем.\r\n            </div>\r\n            <div class=\"dlist_check_point\" :key=\"kt\" v-for=\"(vt, kt) in convert_tester(list.equipment_salon_tests)\">\r\n                <div class=\"dlist_check_title\" v-html=\"vt.name\">Работа акпп/мкпп</div>\r\n                <div class=\"dlist_check_list\" :key=\"kti\" v-for=\"(vti, kti) in vt.list\">\r\n                    <div class=\"dlist_check_status\">\r\n                        <img :src=\"'./img/dlist/' + vti.img + '.svg'\" alt=\"\" />\r\n                    </div>\r\n                    <div class=\"dlist_check_text\" v-html=\"vti.name\">\r\n                        При переключении передач на месте без замечаний\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!--  -->\r\n        <div class=\"dlist_hr_v2\" v-if=\"convert_tester(list.equipment_salon_tests).length != 0\">\r\n            <hr />\r\n        </div>\r\n\r\n        <div class=\"d_container dlist_check_auto\" v-if=\"convert_tester(list.equipment_salon_tests).length != 0\">\r\n            <div class=\"dist_table_header\" style=\"font_size: 25px\">\r\n                Результаты компьютерной диагностики\r\n            </div>\r\n\r\n            <div class=\"d_informer_photo\">\r\n                <div :key=\"kd\" v-for=\"(vf, kd) in list.photo_list_diagnost\">\r\n                    <div class=\"e_pic_v1\" v-if=\"vf.img != ''\" @click=\"show_galery(list.photo_list_diagnost, kd)\" :style=\"'background-image: url(' + vf.img + ');'\"></div>\r\n                </div>\r\n            </div>\r\n            <div class=\"dist_table_header\" style=\"font_size: 25px\" v-if=\"list.comment_diagnost != ''\">\r\n                Комментарии диагностики\r\n            </div>\r\n\r\n            <span v-html=\"list.comment_diagnost\"></span>\r\n        </div>\r\n\r\n        <div class=\"dlist_hr_v2\" v-if=\"list.photo_list_diagnost.length != 0 || list.comment_diagnost !=''\">\r\n            <hr />\r\n        </div>\r\n\r\n        <div class=\"d_container dlist_video\" v-if=\"list.video_list.review.url.length > 2\">\r\n            <div class=\"dlist_check_title video_title\">Видео осмотра</div>\r\n            <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\r\n                Съемка видео производится по регламенту.\r\n            </div>\r\n            <video controls=\"controls\" :poster=\"'./img/dlist/def.jpeg'\" width=\"100%\" height=\"200\">\r\n                <source :src=\"list.video_list.review.url\" type=\"video/mp4\" />\r\n            </video>\r\n        </div>\r\n        <!-- -->\r\n        <!--  -->\r\n\r\n        <div class=\"d_container dlist_video\" style=\"padding-top: 10px\" v-if=\"list.video_list.test_drive.url.length > 2\">\r\n            <div class=\"dlist_check_title video_title\">Видео тест-драйва</div>\r\n            <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\r\n                Съемка видео производится по регламенту.\r\n            </div>\r\n            <video controls=\"controls\" :poster=\"'./img/dlist/def.jpeg'\" width=\"100%\" height=\"200\">\r\n                <source :src=\"list.video_list.test_drive.url\" type=\"video/mp4\" />\r\n            </video>\r\n        </div>\r\n        <!--  -->\r\n\r\n        <div class=\"dlist_hr_v2\" v-if=\"list.video_list.test_drive.url.length > 2\">\r\n            <hr />\r\n        </div>\r\n\r\n        <div class=\"d_container dlist_video\" style=\"padding-top: 10px\" v-if=\"list.video_list.start.url.length > 2\">\r\n            <div class=\"dlist_check_title video_title\">Видео \"Запуск двигателя\"</div>\r\n            <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\r\n                Съемка видео производится по регламенту.\r\n            </div>\r\n            <video controls=\"controls\" :poster=\"'./img/dlist/def.jpeg'\" width=\"100%\" height=\"200\">\r\n                <source :src=\"list.video_list.start.url\" type=\"video/mp4\" />\r\n            </video>\r\n        </div>\r\n        <!--  -->\r\n\r\n        <div class=\"dlist_hr_v2\" v-if=\"list.video_list.start.url.length > 2\">\r\n            <hr />\r\n        </div>\r\n\r\n        <div class=\"d_container dlist_video\" style=\"padding-top: 10px\" v-if=\"list.video_list.vihlop.url.length > 2\">\r\n            <div class=\"dlist_check_title video_title\">Видео \"Выхлоп\"</div>\r\n            <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\r\n                Съемка видео производится по регламенту.\r\n            </div>\r\n            <video controls=\"controls\" :poster=\"'./img/dlist/def.jpeg'\" width=\"100%\" height=\"200\">\r\n                <source :src=\"list.video_list.vihlop.url\" type=\"video/mp4\" />\r\n            </video>\r\n        </div>\r\n        <!--  -->\r\n\r\n        <div class=\"dlist_hr_v2\" v-if=\"list.video_list.vihlop.url.length > 2\">\r\n            <hr />\r\n        </div>\r\n\r\n        <!-- -->\r\n        <div class=\"d_container dlist_plus_minus\" v-if=\"\r\n          convert_pl_v2(list.equipment_check_pl).length != 0 ||\r\n          convert_pl_v2(list.equipment_check_pl, 2).length != 0\r\n        \">\r\n            <div class=\"dlist_check_title video_title\">\r\n                Плюсы и минусы автомобиля\r\n            </div>\r\n            <div class=\"d_inform_car\" style=\"margin-bottom: 10px\">\r\n                Данные пункты выставляются автоматически на основе заполненного отчета\r\n            </div>\r\n            <div class=\"dlist_block\">\r\n                <!--<div class=\"dist_table_header green\">Плюсы</div>-->\r\n                <div class=\"dlist_check_list\" :key=\"kp\" v-for=\"(vp, kp) in convert_pl_v2(list.equipment_check_pl)\">\r\n                    <div class=\"dlist_check_status\">\r\n                        <img :src=\"'./img/dlist/ok.svg'\" alt=\"\" />\r\n                    </div>\r\n                    <div class=\"dlist_check_text\" v-html=\"vp\"></div>\r\n                </div>\r\n            </div>\r\n            <div class=\"dlist_hr_v3\" v-if=\"convert_pl_v2(list.equipment_check_pl).length != 0\">\r\n                <hr />\r\n            </div>\r\n\r\n            <div class=\"dlist_block\">\r\n                <!--<div class=\"dist_table_header red\">Минусы</div>-->\r\n                <div class=\"dlist_check_list\" :key=\"kp\" v-for=\"(vp, kp) in convert_pl_v2(list.equipment_check_pl, 2)\">\r\n                    <div class=\"dlist_check_status\">\r\n                        <img :src=\"'./img/dlist/err.svg'\" alt=\"\" />\r\n                    </div>\r\n                    <div class=\"dlist_check_text\" v-html=\"vp\">Минус</div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\r\n        <!-- -->\r\n\r\n        <div class=\"dlist_hr_v2\" v-if=\"\r\n          convert_pl_v2(list.equipment_check_pl).length != 0 ||\r\n          convert_pl_v2(list.equipment_check_pl, 2).length != 0\r\n        \">\r\n            <hr />\r\n        </div>\r\n\r\n        <!-- -->\r\n\r\n        <div class=\"d_container dlist_check_auto\" v-if=\"convert_checker(list.equipment_check).length > 0\">\r\n            <div class=\"dlist_check_point\">\r\n                <div class=\"dlist_check_title\" style=\"padding-bottom: 5px\">\r\n                    Комплектация\r\n                </div>\r\n                <div class=\"dlist_check_list\" :key=\"kk\" v-for=\"(vk, kk) in convert_checker(list.equipment_check)\">\r\n                    <div class=\"dlist_check_status\">\r\n                        <img :src=\"'./img/dlist/ok.svg'\" alt=\"\" />\r\n                    </div>\r\n                    <div class=\"dlist_check_text\" v-html=\"vk.name\">\r\n                        При переключении передач на месте без замечаний\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <!-- -->\r\n\r\n        <div class=\"d_container dlist_check_auto\" v-if=\"list.comment.length > 0\">\r\n            <div class=\"dlist_check_point\">\r\n                <div class=\"dlist_check_title\" style=\"padding-bottom: 0px\">\r\n                    Комментарий эксперта\r\n                </div>\r\n                <span v-html=\"list.comment\"> </span>\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"d_galery\" v-show=\"d_galery.show\">\r\n            <div class=\"d_galery_title row\">\r\n                <div class=\"col-3\">\r\n                    <div class=\"d_g_back\" @click=\"close_galery()\">\r\n                        <svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 492 492\" style=\"enable-background: new 0 0 492 492\" xml:space=\"preserve\">\r\n                            <g>\r\n                                <g>\r\n                                    <path fill=\"#fff\" d=\"M198.608,246.104L382.664,62.04c5.068-5.056,7.856-11.816,7.856-19.024c0-7.212-2.788-13.968-7.856-19.032l-16.128-16.12\r\n\r\nC361.476,2.792,354.712,0,347.504,0s-13.964,2.792-19.028,7.864L109.328,227.008c-5.084,5.08-7.868,11.868-7.848,19.084\r\n\r\nc-0.02,7.248,2.76,14.028,7.848,19.112l218.944,218.932c5.064,5.072,11.82,7.864,19.032,7.864c7.208,0,13.964-2.792,19.032-7.864\r\n\r\nl16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z\" />\r\n                                </g>\r\n                            </g>\r\n                        </svg>\r\n                    </div>\r\n                </div>\r\n                <div></div>\r\n            </div>\r\n            <div class=\"d_gallery_carusel\">\r\n                <div class=\"d_g_carusel\">\r\n                    <div class=\"d_g_container\" v-for=\"(v, k) in d_galery.list\" :key=\"k\">\r\n                        <div v-if=\"v.img != ''\" class=\"d_g_point_carusel\" :style=\"'background-image: url(' + v.img + '); width:'+photo_wi+';padding:10px; margin-rigth:10px;'\"></div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n";
+	module.exports = "\n  <div class=\"dlist_main\">\n    <div class=\"\">\n      <!-- header -->\n      <div class=\"d_container d_header\">\n        <h2>Диагностический лист</h2>\n        <!-- марка модель генерация год-->\n        <p\n          v-html=\"\n            vi(list.brand) +\n            ' ' +\n            vi(list.model) +\n            ' ' +\n            vi(list.generation) +\n            ' ' +\n            vi(list.year)\n          \"\n        >\n          <span class=\"point-animation\">\n            <span :key=\"k\" v-for=\"(v, k) in 25\">&nbsp;</span>\n          </span>\n        </p>\n        <!-- локация осмотра -->\n        <span v-html=\"list.location_street\">\n          <span class=\"point-animation\">\n            <span :key=\"k\" v-for=\"(v, k) in 25\">&nbsp;</span>\n          </span>\n        </span>\n      </div>\n      <!-- gallery -->\n      <div class=\"d_container_g d_gallery\" v-if=\"list.photo_list.length > 0\">\n        <div class=\"d_informer_photo\">\n          <div\n            class=\"e_pic_v1\"\n            :key=\"kk\"\n            v-for=\"(i, kk) in list.photo_list\"\n            :style=\"get_background(i.img)\"\n            @click=\"show_galery(list.photo_list, kk)\"\n          ></div>\n        </div>\n      </div>\n\n      <!-- -->\n\n      <div class=\"d_container d_block_expert_time\">\n        <div\n          class=\"d_expert\"\n          v-html=\"'Эксперт: ' + (list.expert == '' ? '-' : list.expert)\"\n        >\n          Эксперт: Роман Рыбкин\n        </div>\n        <div\n          class=\"d_time\"\n          v-html=\"\n            mod == 1 && list.created == '' ? emp() : convert_date(list.created)\n          \"\n        >\n          00:00 01.01.2020\n        </div>\n      </div>\n\n      <div class=\"dlist_hr\">\n        <hr />\n      </div>\n      <!-- -->\n      <!-- Стоимость -->\n      <div\n        class=\"d_container dlist_table\"\n        v-if=\"list.price != '' || list.price_sale != ''\"\n      >\n        <div class=\"dist_table_header\">Стоимость</div>\n        <div class=\"dlist_table_container\" v-if=\"list.price != ''\">\n          <div class=\"dlist_table_block_v1\">\n            <span class=\"dlist_informer_gray_text\">До торга</span>\n          </div>\n          <div class=\"dlist_table_block_v1\">\n            <span class=\"dlist_informer_black_text\" v-html=\"list.price + ' ₽'\"\n              >2020\n            </span>\n          </div>\n        </div>\n        <div class=\"dlist_table_container\" v-if=\"list.price_sale != ''\">\n          <div class=\"dlist_table_block_v1\">\n            <span class=\"dlist_informer_gray_text\">После торга</span>\n          </div>\n          <div class=\"dlist_table_block_v1\">\n            <span\n              class=\"dlist_informer_black_text\"\n              v-html=\"list.price_sale + ' ₽'\"\n              >2020\n            </span>\n          </div>\n        </div>\n      </div>\n\n      <div\n        class=\"d_container dlist_table\"\n        :key=\"kct\"\n        v-for=\"(vct, kct) in config_top\"\n      >\n        <div\n          class=\"dist_table_header\"\n          v-html=\"vct.name\"\n          v-show=\"check_emp_list(vct.list)\"\n        >\n          Основная информация\n        </div>\n        <div\n          class=\"dlist_table_container\"\n          :key=\"kctl\"\n          v-for=\"(vctl, kctl) in vct.list\"\n        >\n          <div\n            class=\"dlist_table_block_v1\"\n            v-if=\"get_data_table(vctl.field) != ''\"\n          >\n            <span class=\"dlist_informer_gray_text\" v-html=\"vctl.name\"\n              >Год выпуска</span\n            >\n          </div>\n          <div\n            class=\"dlist_table_block_v1\"\n            v-if=\"get_data_table(vctl.field) != ''\"\n          >\n            <span\n              class=\"dlist_informer_black_text\"\n              v-html=\"get_data_table(vctl.field)\"\n              >2020\n            </span>\n          </div>\n        </div>\n      </div>\n      <!-- -->\n      <!--<div class=\"d_container d_position_btn\">\n            <div class=\"btn_gray\">Смотреть все характеристики авто</div>\n        </div>-->\n      <!-- -->\n\n      <div class=\"dlist_hr_v2\">\n        <hr />\n      </div>\n\n      <!--\n        <div class=\"d_container dlist_table\">\n            <div class=\"dist_table_header\">Отчет о прверке по VIN</div>\n\n            <div class=\"dlist_table_container\">\n                <div class=\"dlist_table_block_v2_l\">\n                    <img :src=\"'./img/dlist/ok.svg'\" alt=\"ok\" />\n                </div>\n                <div class=\"dlist_table_block_v2_r\">\n                    <span class=\"dlist_informer_black_text\">3 владельца по птс</span>\n                </div>\n            </div>\n            <div class=\"dlist_table_container\">\n                <div class=\"dlist_table_block_v2_l\">\n                    <img :src=\"'./img/dlist/ok.svg'\" alt=\"ok\" />\n                </div>\n                <div class=\"dlist_table_block_v2_r\">\n                    <span class=\"dlist_informer_black_text\">3 владельца по птс</span>\n                </div>\n            </div>\n            <div class=\"dlist_table_container\">\n                <div class=\"dlist_table_block_v2_l\">\n                    <img :src=\"'./img/dlist/err.svg'\" alt=\"err\" />\n                </div>\n                <div class=\"dlist_table_block_v2_r\">\n                    <span class=\"dlist_informer_black_text\">Есть юридические ограничения</span>\n                </div>\n            </div>\n            <div class=\"dlist_table_container\">\n                <div class=\"dlist_table_block_v2_l\">\n                    <img :src=\"'./img/dlist/err.svg'\" alt=\"err\" />\n                </div>\n                <div class=\"dlist_table_block_v2_r\">\n                    <span class=\"dlist_informer_black_text\">Есть юридические ограничения</span>\n                </div>\n            </div>\n            <div class=\"dlist_table_container\">\n                <div class=\"dlist_table_block_v2_l\">\n                    <img :src=\"'./img/dlist/err.svg'\" alt=\"err\" />\n                </div>\n                <div class=\"dlist_table_block_v2_r\">\n                    <span class=\"dlist_informer_black_text\">Есть юридические ограничения</span>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"d_container d_position_btn\">\n            <div class=\"btn_green\">Смотреть полный отчет</div>\n        </div>\n\n        <div class=\"dlist_hr_v2\">\n            <hr />\n        </div>-->\n      <!-- -->\n\n      <div class=\"d_container d_car\">\n        <div class=\"dist_table_header\">Повреждения</div>\n        <div class=\"d_inform_car\">\n          Нажмите на элемент, чтобы посмотреть повреждение, или воспользуйтесь\n          слайдером.\n        </div>\n        <div class=\"d_car_c_v1\">\n          <!-- car rrr-->\n          <div class=\"cardemo\" v-if=\"show_car()\">\n            <!--<div class=\"dist-table-header\" style=\"font-size: 25px\">\n                        Развертка автомобиля\n                    </div>-->\n            <div class=\"view_img\" v-if=\"show_car_info\">\n              <div class=\"view_img_close\">\n                <span @click=\"show_car_info = false\">Закрыть</span>\n              </div>\n              <div class=\"view_img_img\" v-if=\"see_car_info.img != ''\">\n                <img :src=\"see_car_info.img\" alt=\"\" />\n              </div>\n              <div class=\"view_img_text\">\n                <span>{{ see_car_info.text }}</span>\n              </div>\n            </div>\n\n            <div class=\"fix-position r-h\">\n              <div class=\"carcar\">\n                <div class=\"car-v\">\n                  <div class=\"c-el guba_top\">\n                    <img :src=\"'./img/car/guba1.svg'\" alt=\"car\" />\n                  </div>\n                  <!-- -->\n                  <div class=\"c-el morda_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.morda_top.type) +\n                        'morda1.svg'\n                      \"\n                      alt=\"car\"\n                    />\n                    <div class=\"e-point-hand point\" @click=\"point('morda_top')\">\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el fara_top_left\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.fara_top_left.type) +\n                        'fara.svg'\n                      \"\n                      @click=\"point('fara_top_left')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('fara_top_left')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el fara_top_right\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.fara_top_right.type) +\n                        'fara.svg'\n                      \"\n                      @click=\"point('fara_top_right')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('fara_top_right')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el polosa_top\">\n                    <img :src=\"'./img/car/polosa.svg'\" alt=\"car\" />\n                    <div class=\"\">\n                      <span>+</span>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el kapot\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.kapot.type) +\n                        'kapot.svg'\n                      \"\n                      @click=\"point('kapot')\"\n                      alt=\"car\"\n                    />\n                    <div class=\"e-point-hand point\" @click=\"point('kapot')\">\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el lobash_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.lobash_top.type) +\n                        'lobash_top.svg'\n                      \"\n                      @click=\"point('lobash_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('lobash_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n                  <div class=\"c-el top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.top.type) +\n                        'top.svg'\n                      \"\n                      @click=\"point('top')\"\n                      alt=\"car\"\n                    />\n                    <div class=\"e-point-hand point\" @click=\"point('top')\">\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el lobash_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.lobash_bottom.type) +\n                        'lobash_bottom.svg'\n                      \"\n                      @click=\"point('lobash_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('lobash_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el bagaj\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.bagaj.type) +\n                        'bagaj.svg'\n                      \"\n                      @click=\"point('bagaj')\"\n                      alt=\"car\"\n                    />\n                    <div class=\"e-point-hand point\" @click=\"point('bagaj')\">\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el polosa_bottom\">\n                    <img :src=\"'./img/car/polosa.svg'\" alt=\"car\" />\n                    <div class=\"\">\n                      <span>+</span>\n                    </div>\n                  </div>\n                  <!-- -->\n                  <div class=\"c-el morda_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.morda_bottom.type) +\n                        'morda1.svg'\n                      \"\n                      @click=\"point('morda_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('morda_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el fara_bottom_left\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.fara_bottom_left.type) +\n                        'fara.svg'\n                      \"\n                      @click=\"point('fara_bottom_left')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('fara_bottom_left')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el fara_bottom_right\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.fara_bottom_right.type) +\n                        'fara.svg'\n                      \"\n                      @click=\"point('fara_bottom_right')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('fara_bottom_right')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <!-- -->\n\n                  <div class=\"c-el guba_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.guba_bottom.type) +\n                        'guba1.svg'\n                      \"\n                      @click=\"point('guba_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div class=\"\">\n                      <span>+</span>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el krilo_left_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.krilo_left_top.type) +\n                        'krilo_left_top.svg'\n                      \"\n                      @click=\"point('krilo_left_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('krilo_left_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el koleso_left_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.koleso_left_top.type) +\n                        'koleso.svg'\n                      \"\n                      @click=\"point('koleso_left_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('koleso_left_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el stoika_left_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.stoika_left_top.type) +\n                        'stoika_left_top.svg'\n                      \"\n                      @click=\"point('stoika_left_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('stoika_left_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el steklo_left_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.steklo_left_top.type) +\n                        'steklo_left_top.svg'\n                      \"\n                      @click=\"point('steklo_left_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('steklo_left_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el dver_left_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.dver_left_top.type) +\n                        'dver.svg'\n                      \"\n                      @click=\"point('dver_left_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('dver_left_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el zerkalo_left\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.zerkalo_left.type) +\n                        'zerkalo_left.svg'\n                      \"\n                      @click=\"point('zerkalo_left')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('zerkalo_left')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el porog_left\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.porog_left.type) +\n                        'porog_left.svg'\n                      \"\n                      @click=\"point('porog_left')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('porog_left')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el stoika_left\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.porog_left.type) +\n                        'stoika.svg'\n                      \"\n                      @click=\"point('stoika_left')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('stoika_left')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el steklo_left_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.steklo_left_bottom.type) +\n                        'steklo_left_bottom.svg'\n                      \"\n                      @click=\"point('steklo_left_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('steklo_left_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el dver_left_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.dver_left_bottom.type) +\n                        'dver.svg'\n                      \"\n                      @click=\"point('dver_left_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('dver_left_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el stoika_left_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.stoika_left_bottom.type) +\n                        'stoika_left_bottom.svg'\n                      \"\n                      @click=\"point('stoika_left_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('stoika_left_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el krilo_left_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.krilo_left_bottom.type) +\n                        'krilo_left_bottom.svg'\n                      \"\n                      @click=\"point('krilo_left_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('krilo_left_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el koleso_left_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.koleso_left_bottom.type) +\n                        'koleso.svg'\n                      \"\n                      @click=\"point('koleso_left_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('koleso_left_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n                  <!-- -->\n                  <div class=\"c-el krilo_right_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.krilo_right_top.type) +\n                        'krilo_right_top.svg'\n                      \"\n                      @click=\"point('krilo_right_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('krilo_right_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el koleso_right_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.koleso_right_top.type) +\n                        'koleso.svg'\n                      \"\n                      @click=\"point('koleso_right_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('koleso_right_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el stoika_right_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.stoika_right_top.type) +\n                        'stoika_right_top.svg'\n                      \"\n                      @click=\"point('stoika_right_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('stoika_right_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el steklo_right_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.steklo_right_top.type) +\n                        'steklo_right_top.svg'\n                      \"\n                      @click=\"point('steklo_right_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('steklo_right_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el dver_right_top\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.dver_right_top.type) +\n                        'dver.svg'\n                      \"\n                      @click=\"point('dver_right_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('dver_right_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el zerkalo_right\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.zerkalo_right.type) +\n                        'zerkalo_left.svg'\n                      \"\n                      @click=\"point('dver_right_top')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('dver_right_top')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el stoika_right\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.stoika_right.type) +\n                        'stoika.svg'\n                      \"\n                      @click=\"point('stoika_right')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('stoika_right')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el porog_right\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.porog_right.type) +\n                        'porog_right.svg'\n                      \"\n                      @click=\"point('porog_right')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('porog_right')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el steklo_right_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.steklo_right_bottom.type) +\n                        'steklo_right_bottom.svg'\n                      \"\n                      @click=\"point('steklo_right_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('steklo_right_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el dver_right_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.dver_right_bottom.type) +\n                        'dver.svg'\n                      \"\n                      @click=\"point('dver_right_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('dver_right_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el stoika_right_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.stoika_right_bottom.type) +\n                        'stoika_right_bottom.svg'\n                      \"\n                      @click=\"point('stoika_right_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('stoika_right_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el krilo_right_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.krilo_right_bottom.type) +\n                        'krilo_right_bottom.svg'\n                      \"\n                      @click=\"point('krilo_right_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('krilo_right_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n\n                  <div class=\"c-el koleso_right_bottom\">\n                    <img\n                      :src=\"\n                        './img/car/' +\n                        get_color_car(list.block.koleso_right_bottom.type) +\n                        'koleso.svg'\n                      \"\n                      @click=\"point('koleso_right_bottom')\"\n                      alt=\"car\"\n                    />\n                    <div\n                      class=\"e-point-hand point\"\n                      @click=\"point('koleso_right_bottom')\"\n                    >\n                      <div class=\"e-point vipoint\">\n                        <span>+</span>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n          <!-- end car rrr-->\n        </div>\n        <!--\n            <div class=\"d_car_config\">\n                <img :src=\"'./img/dlist/bl_err_demo.svg'\" style=\"max-width:99%; margin:auto;\" alt=\"demo\" />\n            </div>\n            -->\n        <!-- -->\n        <div class=\"d_car_damage_list\" v-if=\"pic_damage_v2()\">\n          <div class=\"dist_table_header\">Фотографии повреждений</div>\n          <div class=\"d_informer_photo\">\n            <div :key=\"kd\" v-for=\"(vf, kd) in list.block\">\n              <div\n                class=\"e_pic_v1\"\n                v-if=\"vf.img != ''\"\n                @click=\"show_galery(list.block, kd)\"\n                :style=\"'background-image: url(' + vf.img + ');'\"\n              ></div>\n            </div>\n          </div>\n        </div>\n        <!-- -->\n      </div>\n      <!-- -->\n\n      <div class=\"dlist_hr_v2\">\n        <hr />\n      </div>\n      <!-- -->\n\n      <div\n        class=\"d_container dlist_check_auto\"\n        v-if=\"convert_tester(list.equipment_tests).length != 0\"\n      >\n        <div class=\"dist_table_header\" style=\"font_size: 25px\">\n          Проверка автомобиля\n        </div>\n        <div class=\"d_inform_car\">\n          Проверка производится экспертом перед <br />автомобилем.\n        </div>\n        <div\n          class=\"dlist_check_point\"\n          :key=\"kt\"\n          v-for=\"(vt, kt) in convert_tester(list.equipment_tests)\"\n        >\n          <div class=\"dlist_check_title\" v-html=\"vt.name\">Работа акпп/мкпп</div>\n          <div\n            class=\"dlist_check_list\"\n            :key=\"kti\"\n            v-for=\"(vti, kti) in vt.list\"\n          >\n            <div class=\"dlist_check_status\">\n              <img :src=\"'./img/dlist/' + vti.img + '.svg'\" alt=\"\" />\n            </div>\n            <div class=\"dlist_check_text\" v-html=\"vti.name\">\n              При переключении передач на месте без замечаний\n            </div>\n          </div>\n        </div>\n      </div>\n\n      <div\n        class=\"dlist_hr_v2\"\n        v-if=\"convert_tester(list.equipment_tests).length != 0\"\n      >\n        <hr />\n      </div>\n      <!-- -->\n\n      <div\n        class=\"d_container dlist_check_auto\"\n        v-if=\"convert_tester(list.equipment_salon_tests).length != 0\"\n      >\n        <div class=\"dist_table_header\" style=\"font_size: 25px\">\n          Проверка салона\n        </div>\n        <div class=\"d_inform_car\">\n          Проверка производится экспертом перед <br />автомобилем.\n        </div>\n        <div\n          class=\"dlist_check_point\"\n          :key=\"kt\"\n          v-for=\"(vt, kt) in convert_tester(list.equipment_salon_tests)\"\n        >\n          <div class=\"dlist_check_title\" v-html=\"vt.name\">Работа акпп/мкпп</div>\n          <div\n            class=\"dlist_check_list\"\n            :key=\"kti\"\n            v-for=\"(vti, kti) in vt.list\"\n          >\n            <div class=\"dlist_check_status\">\n              <img :src=\"'./img/dlist/' + vti.img + '.svg'\" alt=\"\" />\n            </div>\n            <div class=\"dlist_check_text\" v-html=\"vti.name\">\n              При переключении передач на месте без замечаний\n            </div>\n          </div>\n        </div>\n      </div>\n\n      <!--  -->\n      <div\n        class=\"dlist_hr_v2\"\n        v-if=\"convert_tester(list.equipment_salon_tests).length != 0\"\n      >\n        <hr />\n      </div>\n\n      <div\n        class=\"d_container dlist_check_auto\"\n        v-if=\"convert_tester(list.equipment_salon_tests).length != 0\"\n      >\n        <div class=\"dist_table_header\" style=\"font_size: 25px\">\n          Результаты компьютерной диагностики\n        </div>\n\n        <div class=\"d_informer_photo\">\n          <div :key=\"kd\" v-for=\"(vf, kd) in list.photo_list_diagnost\">\n            <div\n              class=\"e_pic_v1\"\n              v-if=\"vf.img != ''\"\n              @click=\"show_galery(list.photo_list_diagnost, kd)\"\n              :style=\"'background-image: url(' + vf.img + ');'\"\n            ></div>\n          </div>\n        </div>\n        <div\n          class=\"dist_table_header\"\n          style=\"font_size: 25px\"\n          v-if=\"list.comment_diagnost != ''\"\n        >\n          Комментарии диагностики\n        </div>\n\n        <span v-html=\"list.comment_diagnost\"></span>\n      </div>\n\n      <div\n        class=\"dlist_hr_v2\"\n        v-if=\"\n          check_len_obj('photo_list_diagnost') != 0 ||\n          list.comment_diagnost != ''\n        \"\n      >\n        <hr />\n      </div>\n\n      <div\n        class=\"d_container dlist_video\"\n        v-if=\"list.video_list.review.url.length > 2\"\n      >\n        <div class=\"dlist_check_title video_title\">Видео осмотра</div>\n        <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\n          Съемка видео производится по регламенту.\n        </div>\n        <video\n          controls=\"controls\"\n          :poster=\"'./img/dlist/def.jpeg'\"\n          width=\"100%\"\n          height=\"200\"\n        >\n          <source :src=\"list.video_list.review.url\" type=\"video/mp4\" />\n        </video>\n      </div>\n      <!-- -->\n      <!--  -->\n\n      <div\n        class=\"d_container dlist_video\"\n        style=\"padding-top: 10px\"\n        v-if=\"list.video_list.test_drive.url.length > 2\"\n      >\n        <div class=\"dlist_check_title video_title\">Видео тест-драйва</div>\n        <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\n          Съемка видео производится по регламенту.\n        </div>\n        <video\n          controls=\"controls\"\n          :poster=\"'./img/dlist/def.jpeg'\"\n          width=\"100%\"\n          height=\"200\"\n        >\n          <source :src=\"list.video_list.test_drive.url\" type=\"video/mp4\" />\n        </video>\n      </div>\n      <!--  -->\n\n      <div class=\"dlist_hr_v2\" v-if=\"list.video_list.test_drive.url.length > 2\">\n        <hr />\n      </div>\n\n      <div\n        class=\"d_container dlist_video\"\n        style=\"padding-top: 10px\"\n        v-if=\"check_len_obj('video_list.start.url') > 2\"\n      >\n        <div class=\"dlist_check_title video_title\">\n          Видео \"Запуск двигателя\"\n        </div>\n        <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\n          Съемка видео производится по регламенту.\n        </div>\n        <video\n          controls=\"controls\"\n          :poster=\"'./img/dlist/def.jpeg'\"\n          width=\"100%\"\n          height=\"200\"\n        >\n          <source :src=\"list.video_list.start.url\" type=\"video/mp4\" />\n        </video>\n      </div>\n      <!--  -->\n\n      <div class=\"dlist_hr_v2\" v-if=\"check_len_obj('video_list.start.url') > 2\">\n        <hr />\n      </div>\n\n      <div\n        class=\"d_container dlist_video\"\n        style=\"padding-top: 10px\"\n        v-if=\"check_len_obj('video_list.start.url') > 2\"\n      >\n        <div class=\"dlist_check_title video_title\">Видео \"Выхлоп\"</div>\n        <div class=\"d_inform_car\" style=\"margin-bottom: 12px\">\n          Съемка видео производится по регламенту.\n        </div>\n        <video\n          controls=\"controls\"\n          :poster=\"'./img/dlist/def.jpeg'\"\n          width=\"100%\"\n          height=\"200\"\n        >\n          <source :src=\"list.video_list.vihlop.url\" type=\"video/mp4\" />\n        </video>\n      </div>\n      <!--  -->\n\n      <div class=\"dlist_hr_v2\" v-if=\"check_len_obj('video_list.start.url') > 2\">\n        <hr />\n      </div>\n\n      <!-- -->\n      <div\n        class=\"d_container dlist_plus_minus\"\n        v-if=\"\n          convert_pl_v2(list.equipment_check_pl).length != 0 ||\n          convert_pl_v2(list.equipment_check_pl, 2).length != 0\n        \"\n      >\n        <div class=\"dlist_check_title video_title\">\n          Плюсы и минусы автомобиля\n        </div>\n        <div class=\"d_inform_car\" style=\"margin-bottom: 10px\">\n          Данные пункты выставляются автоматически на основе заполненного отчета\n        </div>\n        <div class=\"dlist_block\">\n          <!--<div class=\"dist_table_header green\">Плюсы</div>-->\n          <div\n            class=\"dlist_check_list\"\n            :key=\"kp\"\n            v-for=\"(vp, kp) in convert_pl_v2(list.equipment_check_pl)\"\n          >\n            <div class=\"dlist_check_status\">\n              <img :src=\"'./img/dlist/ok.svg'\" alt=\"\" />\n            </div>\n            <div class=\"dlist_check_text\" v-html=\"vp\"></div>\n          </div>\n        </div>\n        <div\n          class=\"dlist_hr_v3\"\n          v-if=\"convert_pl_v2(list.equipment_check_pl).length != 0\"\n        >\n          <hr />\n        </div>\n\n        <div class=\"dlist_block\">\n          <!--<div class=\"dist_table_header red\">Минусы</div>-->\n          <div\n            class=\"dlist_check_list\"\n            :key=\"kp\"\n            v-for=\"(vp, kp) in convert_pl_v2(list.equipment_check_pl, 2)\"\n          >\n            <div class=\"dlist_check_status\">\n              <img :src=\"'./img/dlist/err.svg'\" alt=\"\" />\n            </div>\n            <div class=\"dlist_check_text\" v-html=\"vp\">Минус</div>\n          </div>\n        </div>\n      </div>\n\n      <!-- -->\n\n      <div\n        class=\"dlist_hr_v2\"\n        v-if=\"\n          convert_pl_v2(list.equipment_check_pl).length != 0 ||\n          convert_pl_v2(list.equipment_check_pl, 2).length != 0\n        \"\n      >\n        <hr />\n      </div>\n\n      <!-- -->\n\n      <div\n        class=\"d_container dlist_check_auto\"\n        v-if=\"convert_checker(list.equipment_check).length > 0\"\n      >\n        <div class=\"dlist_check_point\">\n          <div class=\"dlist_check_title\" style=\"padding-bottom: 5px\">\n            Комплектация\n          </div>\n          <div\n            class=\"dlist_check_list\"\n            :key=\"kk\"\n            v-for=\"(vk, kk) in convert_checker(list.equipment_check)\"\n          >\n            <div class=\"dlist_check_status\">\n              <img :src=\"'./img/dlist/ok.svg'\" alt=\"\" />\n            </div>\n            <div class=\"dlist_check_text\" v-html=\"vk.name\">\n              При переключении передач на месте без замечаний\n            </div>\n          </div>\n        </div>\n      </div>\n      <!-- -->\n\n      <div class=\"d_container dlist_check_auto\" v-if=\"list.comment.length > 0\">\n        <div class=\"dlist_check_point\">\n          <div class=\"dlist_check_title\" style=\"padding-bottom: 0px\">\n            Комментарий эксперта\n          </div>\n          <span v-html=\"list.comment\"> </span>\n        </div>\n      </div>\n\n      <div class=\"d_galery\" v-show=\"d_galery.show\">\n        <div class=\"d_galery_title row\">\n          <div class=\"col-3\">\n            <div class=\"d_g_back\" @click=\"close_galery()\">\n              <svg\n                version=\"1.1\"\n                id=\"Layer_1\"\n                xmlns=\"http://www.w3.org/2000/svg\"\n                xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n                x=\"0px\"\n                y=\"0px\"\n                viewBox=\"0 0 492 492\"\n                style=\"enable-background: new 0 0 492 492\"\n                xml:space=\"preserve\"\n              >\n                <g>\n                  <g>\n                    <path\n                      fill=\"#fff\"\n                      d=\"M198.608,246.104L382.664,62.04c5.068-5.056,7.856-11.816,7.856-19.024c0-7.212-2.788-13.968-7.856-19.032l-16.128-16.12\n\nC361.476,2.792,354.712,0,347.504,0s-13.964,2.792-19.028,7.864L109.328,227.008c-5.084,5.08-7.868,11.868-7.848,19.084\n\nc-0.02,7.248,2.76,14.028,7.848,19.112l218.944,218.932c5.064,5.072,11.82,7.864,19.032,7.864c7.208,0,13.964-2.792,19.032-7.864\n\nl16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z\"\n                    />\n                  </g>\n                </g>\n              </svg>\n            </div>\n          </div>\n          <div></div>\n        </div>\n        <div class=\"d_gallery_carusel\">\n          <div class=\"d_g_carusel\">\n            <div class=\"d_g_container\" v-for=\"(v, k) in d_galery.list\" :key=\"k\">\n              <div\n                v-if=\"v.img != ''\"\n                class=\"d_g_point_carusel\"\n                :style=\"\n                  'background-image: url(' +\n                  v.img +\n                  '); width:' +\n                  photo_wi +\n                  ';padding:10px; margin-rigth:10px;'\n                \"\n              ></div>\n              <div class=\"d_g_text\" v-if=\"check_len_obj_v2(d_galery.list[k], 'comment') > 0\">\n                {{ v.comment }}\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n";
 
 /***/ }
 /******/ ]);
